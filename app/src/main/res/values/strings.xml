@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyEnglish</string>
+    <string name="wallpaper_description">Uma palavra nova de inglês intermediário aparece direto na sua tela a cada 12 horas.</string>
+    <string name="main_title">DailyEnglish</string>
+    <string name="main_subtitle">Defina como papel de parede e receba uma palavra nova de inglês intermediário a cada 12 horas, direto na tela do seu celular.</string>
+    <string name="button_set_wallpaper">Definir como papel de parede</string>
+    <string name="wallpaper_picker_not_found">Não foi possível abrir o seletor de papel de parede neste aparelho.</string>
+</resources>
