@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_dark"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_title"
+            android:textColor="@color/text_primary"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_subtitle"
+            android:textColor="@color/text_secondary"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:layout_marginBottom="32dp" />
+
+        <TextView
+            android:id="@+id/textWord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_primary"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            tools:text="Achieve" />
+
+        <TextView
+            android:id="@+id/textTranslation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_accent"
+            android:textSize="18sp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="20dp"
+            tools:text="Alcançar / Conquistar" />
+
+        <TextView
+            android:id="@+id/textExample"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_secondary"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-italic"
+            tools:text="She worked hard to achieve her goals." />
+
+        <TextView
+            android:id="@+id/textExampleTranslation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_tertiary"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-italic"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="40dp"
+            tools:text="Ela trabalhou duro para alcançar seus objetivos." />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonSetWallpaper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_set_wallpaper"
+            app:backgroundTint="@color/accent_purple" />
+
+    </LinearLayout>
+
+</ScrollView>

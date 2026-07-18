@@ -1,0 +1,4382 @@
+[
+  {
+    "word": "Achieve",
+    "translation": "alcançar",
+    "example": "She needs to achieve as soon as possible.",
+    "exampleTranslation": "Ela precisa alcançar o quanto antes."
+  },
+  {
+    "word": "Accomplish",
+    "translation": "realizar",
+    "example": "We should accomplish before it's too late.",
+    "exampleTranslation": "Nós deveríamos realizar antes que seja tarde demais."
+  },
+  {
+    "word": "Admit",
+    "translation": "admitir",
+    "example": "I'm trying to admit right now.",
+    "exampleTranslation": "Eu estou tentando admitir agora mesmo."
+  },
+  {
+    "word": "Afford",
+    "translation": "bancar / ter condições de comprar",
+    "example": "It's important to afford carefully.",
+    "exampleTranslation": "É importante bancar / ter condições de comprar com cuidado."
+  },
+  {
+    "word": "Agree",
+    "translation": "concordar",
+    "example": "He plans to agree next week.",
+    "exampleTranslation": "Ele planeja concordar semana que vem."
+  },
+  {
+    "word": "Allow",
+    "translation": "permitir",
+    "example": "They decided to allow together.",
+    "exampleTranslation": "Eles decidiram permitir juntos."
+  },
+  {
+    "word": "Announce",
+    "translation": "anunciar",
+    "example": "You have to announce before the meeting.",
+    "exampleTranslation": "Você precisa anunciar antes da reunião."
+  },
+  {
+    "word": "Apologize",
+    "translation": "pedir desculpas",
+    "example": "I don't want to apologize again.",
+    "exampleTranslation": "Eu não quero pedir desculpas de novo."
+  },
+  {
+    "word": "Appear",
+    "translation": "aparecer / parecer",
+    "example": "She needs to appear as soon as possible.",
+    "exampleTranslation": "Ela precisa aparecer / parecer o quanto antes."
+  },
+  {
+    "word": "Apply",
+    "translation": "se candidatar / aplicar",
+    "example": "We should apply before it's too late.",
+    "exampleTranslation": "Nós deveríamos se candidatar / aplicar antes que seja tarde demais."
+  },
+  {
+    "word": "Approve",
+    "translation": "aprovar",
+    "example": "I'm trying to approve right now.",
+    "exampleTranslation": "Eu estou tentando aprovar agora mesmo."
+  },
+  {
+    "word": "Argue",
+    "translation": "discutir / argumentar",
+    "example": "It's important to argue carefully.",
+    "exampleTranslation": "É importante discutir / argumentar com cuidado."
+  },
+  {
+    "word": "Arrange",
+    "translation": "organizar / combinar",
+    "example": "He plans to arrange next week.",
+    "exampleTranslation": "Ele planeja organizar / combinar semana que vem."
+  },
+  {
+    "word": "Arrive",
+    "translation": "chegar",
+    "example": "They decided to arrive together.",
+    "exampleTranslation": "Eles decidiram chegar juntos."
+  },
+  {
+    "word": "Assume",
+    "translation": "supor / presumir",
+    "example": "You have to assume before the meeting.",
+    "exampleTranslation": "Você precisa supor / presumir antes da reunião."
+  },
+  {
+    "word": "Attach",
+    "translation": "anexar",
+    "example": "I don't want to attach again.",
+    "exampleTranslation": "Eu não quero anexar de novo."
+  },
+  {
+    "word": "Attempt",
+    "translation": "tentar",
+    "example": "She needs to attempt as soon as possible.",
+    "exampleTranslation": "Ela precisa tentar o quanto antes."
+  },
+  {
+    "word": "Attend",
+    "translation": "comparecer / participar",
+    "example": "We should attend before it's too late.",
+    "exampleTranslation": "Nós deveríamos comparecer / participar antes que seja tarde demais."
+  },
+  {
+    "word": "Avoid",
+    "translation": "evitar",
+    "example": "I'm trying to avoid right now.",
+    "exampleTranslation": "Eu estou tentando evitar agora mesmo."
+  },
+  {
+    "word": "Behave",
+    "translation": "se comportar",
+    "example": "It's important to behave carefully.",
+    "exampleTranslation": "É importante se comportar com cuidado."
+  },
+  {
+    "word": "Believe",
+    "translation": "acreditar",
+    "example": "He plans to believe next week.",
+    "exampleTranslation": "Ele planeja acreditar semana que vem."
+  },
+  {
+    "word": "Belong",
+    "translation": "pertencer",
+    "example": "They decided to belong together.",
+    "exampleTranslation": "Eles decidiram pertencer juntos."
+  },
+  {
+    "word": "Blame",
+    "translation": "culpar",
+    "example": "You have to blame before the meeting.",
+    "exampleTranslation": "Você precisa culpar antes da reunião."
+  },
+  {
+    "word": "Borrow",
+    "translation": "pedir emprestado",
+    "example": "I don't want to borrow again.",
+    "exampleTranslation": "Eu não quero pedir emprestado de novo."
+  },
+  {
+    "word": "Break",
+    "translation": "quebrar",
+    "example": "She needs to break as soon as possible.",
+    "exampleTranslation": "Ela precisa quebrar o quanto antes."
+  },
+  {
+    "word": "Build",
+    "translation": "construir",
+    "example": "We should build before it's too late.",
+    "exampleTranslation": "Nós deveríamos construir antes que seja tarde demais."
+  },
+  {
+    "word": "Calculate",
+    "translation": "calcular",
+    "example": "I'm trying to calculate right now.",
+    "exampleTranslation": "Eu estou tentando calcular agora mesmo."
+  },
+  {
+    "word": "Cancel",
+    "translation": "cancelar",
+    "example": "It's important to cancel carefully.",
+    "exampleTranslation": "É importante cancelar com cuidado."
+  },
+  {
+    "word": "Capture",
+    "translation": "capturar",
+    "example": "He plans to capture next week.",
+    "exampleTranslation": "Ele planeja capturar semana que vem."
+  },
+  {
+    "word": "Cause",
+    "translation": "causar",
+    "example": "They decided to cause together.",
+    "exampleTranslation": "Eles decidiram causar juntos."
+  },
+  {
+    "word": "Celebrate",
+    "translation": "comemorar",
+    "example": "You have to celebrate before the meeting.",
+    "exampleTranslation": "Você precisa comemorar antes da reunião."
+  },
+  {
+    "word": "Challenge",
+    "translation": "desafiar",
+    "example": "I don't want to challenge again.",
+    "exampleTranslation": "Eu não quero desafiar de novo."
+  },
+  {
+    "word": "Check",
+    "translation": "verificar",
+    "example": "She needs to check as soon as possible.",
+    "exampleTranslation": "Ela precisa verificar o quanto antes."
+  },
+  {
+    "word": "Choose",
+    "translation": "escolher",
+    "example": "We should choose before it's too late.",
+    "exampleTranslation": "Nós deveríamos escolher antes que seja tarde demais."
+  },
+  {
+    "word": "Claim",
+    "translation": "alegar / reivindicar",
+    "example": "I'm trying to claim right now.",
+    "exampleTranslation": "Eu estou tentando alegar / reivindicar agora mesmo."
+  },
+  {
+    "word": "Combine",
+    "translation": "combinar",
+    "example": "It's important to combine carefully.",
+    "exampleTranslation": "É importante combinar com cuidado."
+  },
+  {
+    "word": "Compare",
+    "translation": "comparar",
+    "example": "He plans to compare next week.",
+    "exampleTranslation": "Ele planeja comparar semana que vem."
+  },
+  {
+    "word": "Complain",
+    "translation": "reclamar",
+    "example": "They decided to complain together.",
+    "exampleTranslation": "Eles decidiram reclamar juntos."
+  },
+  {
+    "word": "Complete",
+    "translation": "completar",
+    "example": "You have to complete before the meeting.",
+    "exampleTranslation": "Você precisa completar antes da reunião."
+  },
+  {
+    "word": "Concentrate",
+    "translation": "se concentrar",
+    "example": "I don't want to concentrate again.",
+    "exampleTranslation": "Eu não quero se concentrar de novo."
+  },
+  {
+    "word": "Confirm",
+    "translation": "confirmar",
+    "example": "She needs to confirm as soon as possible.",
+    "exampleTranslation": "Ela precisa confirmar o quanto antes."
+  },
+  {
+    "word": "Connect",
+    "translation": "conectar",
+    "example": "We should connect before it's too late.",
+    "exampleTranslation": "Nós deveríamos conectar antes que seja tarde demais."
+  },
+  {
+    "word": "Consider",
+    "translation": "considerar",
+    "example": "I'm trying to consider right now.",
+    "exampleTranslation": "Eu estou tentando considerar agora mesmo."
+  },
+  {
+    "word": "Contain",
+    "translation": "conter",
+    "example": "It's important to contain carefully.",
+    "exampleTranslation": "É importante conter com cuidado."
+  },
+  {
+    "word": "Continue",
+    "translation": "continuar",
+    "example": "He plans to continue next week.",
+    "exampleTranslation": "Ele planeja continuar semana que vem."
+  },
+  {
+    "word": "Contribute",
+    "translation": "contribuir",
+    "example": "They decided to contribute together.",
+    "exampleTranslation": "Eles decidiram contribuir juntos."
+  },
+  {
+    "word": "Control",
+    "translation": "controlar",
+    "example": "You have to control before the meeting.",
+    "exampleTranslation": "Você precisa controlar antes da reunião."
+  },
+  {
+    "word": "Convince",
+    "translation": "convencer",
+    "example": "I don't want to convince again.",
+    "exampleTranslation": "Eu não quero convencer de novo."
+  },
+  {
+    "word": "Cope",
+    "translation": "dar conta / lidar",
+    "example": "She needs to cope as soon as possible.",
+    "exampleTranslation": "Ela precisa dar conta / lidar o quanto antes."
+  },
+  {
+    "word": "Create",
+    "translation": "criar",
+    "example": "We should create before it's too late.",
+    "exampleTranslation": "Nós deveríamos criar antes que seja tarde demais."
+  },
+  {
+    "word": "Criticize",
+    "translation": "criticar",
+    "example": "I'm trying to criticize right now.",
+    "exampleTranslation": "Eu estou tentando criticar agora mesmo."
+  },
+  {
+    "word": "Cure",
+    "translation": "curar",
+    "example": "It's important to cure carefully.",
+    "exampleTranslation": "É importante curar com cuidado."
+  },
+  {
+    "word": "Damage",
+    "translation": "danificar",
+    "example": "He plans to damage next week.",
+    "exampleTranslation": "Ele planeja danificar semana que vem."
+  },
+  {
+    "word": "Deal",
+    "translation": "lidar",
+    "example": "They decided to deal together.",
+    "exampleTranslation": "Eles decidiram lidar juntos."
+  },
+  {
+    "word": "Decide",
+    "translation": "decidir",
+    "example": "You have to decide before the meeting.",
+    "exampleTranslation": "Você precisa decidir antes da reunião."
+  },
+  {
+    "word": "Declare",
+    "translation": "declarar",
+    "example": "I don't want to declare again.",
+    "exampleTranslation": "Eu não quero declarar de novo."
+  },
+  {
+    "word": "Decrease",
+    "translation": "diminuir",
+    "example": "She needs to decrease as soon as possible.",
+    "exampleTranslation": "Ela precisa diminuir o quanto antes."
+  },
+  {
+    "word": "Deliver",
+    "translation": "entregar",
+    "example": "We should deliver before it's too late.",
+    "exampleTranslation": "Nós deveríamos entregar antes que seja tarde demais."
+  },
+  {
+    "word": "Depend",
+    "translation": "depender",
+    "example": "I'm trying to depend right now.",
+    "exampleTranslation": "Eu estou tentando depender agora mesmo."
+  },
+  {
+    "word": "Describe",
+    "translation": "descrever",
+    "example": "It's important to describe carefully.",
+    "exampleTranslation": "É importante descrever com cuidado."
+  },
+  {
+    "word": "Deserve",
+    "translation": "merecer",
+    "example": "He plans to deserve next week.",
+    "exampleTranslation": "Ele planeja merecer semana que vem."
+  },
+  {
+    "word": "Design",
+    "translation": "projetar",
+    "example": "They decided to design together.",
+    "exampleTranslation": "Eles decidiram projetar juntos."
+  },
+  {
+    "word": "Destroy",
+    "translation": "destruir",
+    "example": "You have to destroy before the meeting.",
+    "exampleTranslation": "Você precisa destruir antes da reunião."
+  },
+  {
+    "word": "Develop",
+    "translation": "desenvolver",
+    "example": "I don't want to develop again.",
+    "exampleTranslation": "Eu não quero desenvolver de novo."
+  },
+  {
+    "word": "Disagree",
+    "translation": "discordar",
+    "example": "She needs to disagree as soon as possible.",
+    "exampleTranslation": "Ela precisa discordar o quanto antes."
+  },
+  {
+    "word": "Discover",
+    "translation": "descobrir",
+    "example": "We should discover before it's too late.",
+    "exampleTranslation": "Nós deveríamos descobrir antes que seja tarde demais."
+  },
+  {
+    "word": "Divide",
+    "translation": "dividir",
+    "example": "I'm trying to divide right now.",
+    "exampleTranslation": "Eu estou tentando dividir agora mesmo."
+  },
+  {
+    "word": "Doubt",
+    "translation": "duvidar",
+    "example": "It's important to doubt carefully.",
+    "exampleTranslation": "É importante duvidar com cuidado."
+  },
+  {
+    "word": "Earn",
+    "translation": "ganhar (dinheiro)",
+    "example": "He plans to earn next week.",
+    "exampleTranslation": "Ele planeja ganhar (dinheiro) semana que vem."
+  },
+  {
+    "word": "Educate",
+    "translation": "educar",
+    "example": "They decided to educate together.",
+    "exampleTranslation": "Eles decidiram educar juntos."
+  },
+  {
+    "word": "Elect",
+    "translation": "eleger",
+    "example": "You have to elect before the meeting.",
+    "exampleTranslation": "Você precisa eleger antes da reunião."
+  },
+  {
+    "word": "Embarrass",
+    "translation": "envergonhar",
+    "example": "I don't want to embarrass again.",
+    "exampleTranslation": "Eu não quero envergonhar de novo."
+  },
+  {
+    "word": "Encourage",
+    "translation": "incentivar",
+    "example": "She needs to encourage as soon as possible.",
+    "exampleTranslation": "Ela precisa incentivar o quanto antes."
+  },
+  {
+    "word": "Ensure",
+    "translation": "garantir",
+    "example": "We should ensure before it's too late.",
+    "exampleTranslation": "Nós deveríamos garantir antes que seja tarde demais."
+  },
+  {
+    "word": "Escape",
+    "translation": "escapar",
+    "example": "I'm trying to escape right now.",
+    "exampleTranslation": "Eu estou tentando escapar agora mesmo."
+  },
+  {
+    "word": "Estimate",
+    "translation": "estimar",
+    "example": "It's important to estimate carefully.",
+    "exampleTranslation": "É importante estimar com cuidado."
+  },
+  {
+    "word": "Exist",
+    "translation": "existir",
+    "example": "He plans to exist next week.",
+    "exampleTranslation": "Ele planeja existir semana que vem."
+  },
+  {
+    "word": "Expand",
+    "translation": "expandir",
+    "example": "They decided to expand together.",
+    "exampleTranslation": "Eles decidiram expandir juntos."
+  },
+  {
+    "word": "Expect",
+    "translation": "esperar",
+    "example": "You have to expect before the meeting.",
+    "exampleTranslation": "Você precisa esperar antes da reunião."
+  },
+  {
+    "word": "Explain",
+    "translation": "explicar",
+    "example": "I don't want to explain again.",
+    "exampleTranslation": "Eu não quero explicar de novo."
+  },
+  {
+    "word": "Explore",
+    "translation": "explorar",
+    "example": "She needs to explore as soon as possible.",
+    "exampleTranslation": "Ela precisa explorar o quanto antes."
+  },
+  {
+    "word": "Express",
+    "translation": "expressar",
+    "example": "We should express before it's too late.",
+    "exampleTranslation": "Nós deveríamos expressar antes que seja tarde demais."
+  },
+  {
+    "word": "Face",
+    "translation": "encarar",
+    "example": "I'm trying to face right now.",
+    "exampleTranslation": "Eu estou tentando encarar agora mesmo."
+  },
+  {
+    "word": "Fail",
+    "translation": "falhar",
+    "example": "It's important to fail carefully.",
+    "exampleTranslation": "É importante falhar com cuidado."
+  },
+  {
+    "word": "Fix",
+    "translation": "consertar",
+    "example": "He plans to fix next week.",
+    "exampleTranslation": "Ele planeja consertar semana que vem."
+  },
+  {
+    "word": "Focus",
+    "translation": "focar",
+    "example": "They decided to focus together.",
+    "exampleTranslation": "Eles decidiram focar juntos."
+  },
+  {
+    "word": "Forgive",
+    "translation": "perdoar",
+    "example": "You have to forgive before the meeting.",
+    "exampleTranslation": "Você precisa perdoar antes da reunião."
+  },
+  {
+    "word": "Gain",
+    "translation": "ganhar / obter",
+    "example": "I don't want to gain again.",
+    "exampleTranslation": "Eu não quero ganhar / obter de novo."
+  },
+  {
+    "word": "Gather",
+    "translation": "reunir",
+    "example": "She needs to gather as soon as possible.",
+    "exampleTranslation": "Ela precisa reunir o quanto antes."
+  },
+  {
+    "word": "Generate",
+    "translation": "gerar",
+    "example": "We should generate before it's too late.",
+    "exampleTranslation": "Nós deveríamos gerar antes que seja tarde demais."
+  },
+  {
+    "word": "Handle",
+    "translation": "lidar com",
+    "example": "I'm trying to handle right now.",
+    "exampleTranslation": "Eu estou tentando lidar com agora mesmo."
+  },
+  {
+    "word": "Hesitate",
+    "translation": "hesitar",
+    "example": "It's important to hesitate carefully.",
+    "exampleTranslation": "É importante hesitar com cuidado."
+  },
+  {
+    "word": "Hide",
+    "translation": "esconder",
+    "example": "He plans to hide next week.",
+    "exampleTranslation": "Ele planeja esconder semana que vem."
+  },
+  {
+    "word": "Hire",
+    "translation": "contratar",
+    "example": "They decided to hire together.",
+    "exampleTranslation": "Eles decidiram contratar juntos."
+  },
+  {
+    "word": "Identify",
+    "translation": "identificar",
+    "example": "You have to identify before the meeting.",
+    "exampleTranslation": "Você precisa identificar antes da reunião."
+  },
+  {
+    "word": "Ignore",
+    "translation": "ignorar",
+    "example": "I don't want to ignore again.",
+    "exampleTranslation": "Eu não quero ignorar de novo."
+  },
+  {
+    "word": "Imagine",
+    "translation": "imaginar",
+    "example": "She needs to imagine as soon as possible.",
+    "exampleTranslation": "Ela precisa imaginar o quanto antes."
+  },
+  {
+    "word": "Impress",
+    "translation": "impressionar",
+    "example": "We should impress before it's too late.",
+    "exampleTranslation": "Nós deveríamos impressionar antes que seja tarde demais."
+  },
+  {
+    "word": "Improve",
+    "translation": "melhorar",
+    "example": "I'm trying to improve right now.",
+    "exampleTranslation": "Eu estou tentando melhorar agora mesmo."
+  },
+  {
+    "word": "Include",
+    "translation": "incluir",
+    "example": "It's important to include carefully.",
+    "exampleTranslation": "É importante incluir com cuidado."
+  },
+  {
+    "word": "Increase",
+    "translation": "aumentar",
+    "example": "He plans to increase next week.",
+    "exampleTranslation": "Ele planeja aumentar semana que vem."
+  },
+  {
+    "word": "Indicate",
+    "translation": "indicar",
+    "example": "They decided to indicate together.",
+    "exampleTranslation": "Eles decidiram indicar juntos."
+  },
+  {
+    "word": "Influence",
+    "translation": "influenciar",
+    "example": "You have to influence before the meeting.",
+    "exampleTranslation": "Você precisa influenciar antes da reunião."
+  },
+  {
+    "word": "Inform",
+    "translation": "informar",
+    "example": "I don't want to inform again.",
+    "exampleTranslation": "Eu não quero informar de novo."
+  },
+  {
+    "word": "Insist",
+    "translation": "insistir",
+    "example": "She needs to insist as soon as possible.",
+    "exampleTranslation": "Ela precisa insistir o quanto antes."
+  },
+  {
+    "word": "Inspire",
+    "translation": "inspirar",
+    "example": "We should inspire before it's too late.",
+    "exampleTranslation": "Nós deveríamos inspirar antes que seja tarde demais."
+  },
+  {
+    "word": "Install",
+    "translation": "instalar",
+    "example": "I'm trying to install right now.",
+    "exampleTranslation": "Eu estou tentando instalar agora mesmo."
+  },
+  {
+    "word": "Intend",
+    "translation": "pretender",
+    "example": "It's important to intend carefully.",
+    "exampleTranslation": "É importante pretender com cuidado."
+  },
+  {
+    "word": "Interrupt",
+    "translation": "interromper",
+    "example": "He plans to interrupt next week.",
+    "exampleTranslation": "Ele planeja interromper semana que vem."
+  },
+  {
+    "word": "Introduce",
+    "translation": "apresentar",
+    "example": "They decided to introduce together.",
+    "exampleTranslation": "Eles decidiram apresentar juntos."
+  },
+  {
+    "word": "Invest",
+    "translation": "investir",
+    "example": "You have to invest before the meeting.",
+    "exampleTranslation": "Você precisa investir antes da reunião."
+  },
+  {
+    "word": "Involve",
+    "translation": "envolver",
+    "example": "I don't want to involve again.",
+    "exampleTranslation": "Eu não quero envolver de novo."
+  },
+  {
+    "word": "Judge",
+    "translation": "julgar",
+    "example": "She needs to judge as soon as possible.",
+    "exampleTranslation": "Ela precisa julgar o quanto antes."
+  },
+  {
+    "word": "Justify",
+    "translation": "justificar",
+    "example": "We should justify before it's too late.",
+    "exampleTranslation": "Nós deveríamos justificar antes que seja tarde demais."
+  },
+  {
+    "word": "Lead",
+    "translation": "liderar",
+    "example": "I'm trying to lead right now.",
+    "exampleTranslation": "Eu estou tentando liderar agora mesmo."
+  },
+  {
+    "word": "Lend",
+    "translation": "emprestar",
+    "example": "It's important to lend carefully.",
+    "exampleTranslation": "É importante emprestar com cuidado."
+  },
+  {
+    "word": "Maintain",
+    "translation": "manter",
+    "example": "He plans to maintain next week.",
+    "exampleTranslation": "Ele planeja manter semana que vem."
+  },
+  {
+    "word": "Manage",
+    "translation": "gerenciar / conseguir",
+    "example": "They decided to manage together.",
+    "exampleTranslation": "Eles decidiram gerenciar / conseguir juntos."
+  },
+  {
+    "word": "Mention",
+    "translation": "mencionar",
+    "example": "You have to mention before the meeting.",
+    "exampleTranslation": "Você precisa mencionar antes da reunião."
+  },
+  {
+    "word": "Mislead",
+    "translation": "enganar",
+    "example": "I don't want to mislead again.",
+    "exampleTranslation": "Eu não quero enganar de novo."
+  },
+  {
+    "word": "Mix",
+    "translation": "misturar",
+    "example": "She needs to mix as soon as possible.",
+    "exampleTranslation": "Ela precisa misturar o quanto antes."
+  },
+  {
+    "word": "Motivate",
+    "translation": "motivar",
+    "example": "We should motivate before it's too late.",
+    "exampleTranslation": "Nós deveríamos motivar antes que seja tarde demais."
+  },
+  {
+    "word": "Notice",
+    "translation": "perceber / notar",
+    "example": "I'm trying to notice right now.",
+    "exampleTranslation": "Eu estou tentando perceber / notar agora mesmo."
+  },
+  {
+    "word": "Obtain",
+    "translation": "obter",
+    "example": "It's important to obtain carefully.",
+    "exampleTranslation": "É importante obter com cuidado."
+  },
+  {
+    "word": "Occur",
+    "translation": "ocorrer",
+    "example": "He plans to occur next week.",
+    "exampleTranslation": "Ele planeja ocorrer semana que vem."
+  },
+  {
+    "word": "Offer",
+    "translation": "oferecer",
+    "example": "They decided to offer together.",
+    "exampleTranslation": "Eles decidiram oferecer juntos."
+  },
+  {
+    "word": "Operate",
+    "translation": "operar",
+    "example": "You have to operate before the meeting.",
+    "exampleTranslation": "Você precisa operar antes da reunião."
+  },
+  {
+    "word": "Organize",
+    "translation": "organizar",
+    "example": "I don't want to organize again.",
+    "exampleTranslation": "Eu não quero organizar de novo."
+  },
+  {
+    "word": "Overcome",
+    "translation": "superar",
+    "example": "She needs to overcome as soon as possible.",
+    "exampleTranslation": "Ela precisa superar o quanto antes."
+  },
+  {
+    "word": "Own",
+    "translation": "possuir",
+    "example": "We should own before it's too late.",
+    "exampleTranslation": "Nós deveríamos possuir antes que seja tarde demais."
+  },
+  {
+    "word": "Participate",
+    "translation": "participar",
+    "example": "I'm trying to participate right now.",
+    "exampleTranslation": "Eu estou tentando participar agora mesmo."
+  },
+  {
+    "word": "Perform",
+    "translation": "realizar / atuar",
+    "example": "It's important to perform carefully.",
+    "exampleTranslation": "É importante realizar / atuar com cuidado."
+  },
+  {
+    "word": "Permit",
+    "translation": "permitir",
+    "example": "He plans to permit next week.",
+    "exampleTranslation": "Ele planeja permitir semana que vem."
+  },
+  {
+    "word": "Persuade",
+    "translation": "persuadir",
+    "example": "They decided to persuade together.",
+    "exampleTranslation": "Eles decidiram persuadir juntos."
+  },
+  {
+    "word": "Predict",
+    "translation": "prever",
+    "example": "You have to predict before the meeting.",
+    "exampleTranslation": "Você precisa prever antes da reunião."
+  },
+  {
+    "word": "Prefer",
+    "translation": "preferir",
+    "example": "I don't want to prefer again.",
+    "exampleTranslation": "Eu não quero preferir de novo."
+  },
+  {
+    "word": "Prepare",
+    "translation": "preparar",
+    "example": "She needs to prepare as soon as possible.",
+    "exampleTranslation": "Ela precisa preparar o quanto antes."
+  },
+  {
+    "word": "Prevent",
+    "translation": "prevenir / impedir",
+    "example": "We should prevent before it's too late.",
+    "exampleTranslation": "Nós deveríamos prevenir / impedir antes que seja tarde demais."
+  },
+  {
+    "word": "Produce",
+    "translation": "produzir",
+    "example": "I'm trying to produce right now.",
+    "exampleTranslation": "Eu estou tentando produzir agora mesmo."
+  },
+  {
+    "word": "Promise",
+    "translation": "prometer",
+    "example": "It's important to promise carefully.",
+    "exampleTranslation": "É importante prometer com cuidado."
+  },
+  {
+    "word": "Promote",
+    "translation": "promover",
+    "example": "He plans to promote next week.",
+    "exampleTranslation": "Ele planeja promover semana que vem."
+  },
+  {
+    "word": "Propose",
+    "translation": "propor",
+    "example": "They decided to propose together.",
+    "exampleTranslation": "Eles decidiram propor juntos."
+  },
+  {
+    "word": "Protect",
+    "translation": "proteger",
+    "example": "You have to protect before the meeting.",
+    "exampleTranslation": "Você precisa proteger antes da reunião."
+  },
+  {
+    "word": "Prove",
+    "translation": "provar",
+    "example": "I don't want to prove again.",
+    "exampleTranslation": "Eu não quero provar de novo."
+  },
+  {
+    "word": "Provide",
+    "translation": "fornecer",
+    "example": "She needs to provide as soon as possible.",
+    "exampleTranslation": "Ela precisa fornecer o quanto antes."
+  },
+  {
+    "word": "Publish",
+    "translation": "publicar",
+    "example": "We should publish before it's too late.",
+    "exampleTranslation": "Nós deveríamos publicar antes que seja tarde demais."
+  },
+  {
+    "word": "Pursue",
+    "translation": "buscar / perseguir",
+    "example": "I'm trying to pursue right now.",
+    "exampleTranslation": "Eu estou tentando buscar / perseguir agora mesmo."
+  },
+  {
+    "word": "Quit",
+    "translation": "desistir / largar",
+    "example": "It's important to quit carefully.",
+    "exampleTranslation": "É importante desistir / largar com cuidado."
+  },
+  {
+    "word": "Reach",
+    "translation": "alcançar",
+    "example": "He plans to reach next week.",
+    "exampleTranslation": "Ele planeja alcançar semana que vem."
+  },
+  {
+    "word": "Realize",
+    "translation": "perceber / se dar conta",
+    "example": "They decided to realize together.",
+    "exampleTranslation": "Eles decidiram perceber / se dar conta juntos."
+  },
+  {
+    "word": "Recall",
+    "translation": "lembrar",
+    "example": "You have to recall before the meeting.",
+    "exampleTranslation": "Você precisa lembrar antes da reunião."
+  },
+  {
+    "word": "Receive",
+    "translation": "receber",
+    "example": "I don't want to receive again.",
+    "exampleTranslation": "Eu não quero receber de novo."
+  },
+  {
+    "word": "Recognize",
+    "translation": "reconhecer",
+    "example": "She needs to recognize as soon as possible.",
+    "exampleTranslation": "Ela precisa reconhecer o quanto antes."
+  },
+  {
+    "word": "Recommend",
+    "translation": "recomendar",
+    "example": "We should recommend before it's too late.",
+    "exampleTranslation": "Nós deveríamos recomendar antes que seja tarde demais."
+  },
+  {
+    "word": "Reduce",
+    "translation": "reduzir",
+    "example": "I'm trying to reduce right now.",
+    "exampleTranslation": "Eu estou tentando reduzir agora mesmo."
+  },
+  {
+    "word": "Refer",
+    "translation": "se referir",
+    "example": "It's important to refer carefully.",
+    "exampleTranslation": "É importante se referir com cuidado."
+  },
+  {
+    "word": "Reflect",
+    "translation": "refletir",
+    "example": "He plans to reflect next week.",
+    "exampleTranslation": "Ele planeja refletir semana que vem."
+  },
+  {
+    "word": "Refuse",
+    "translation": "recusar",
+    "example": "They decided to refuse together.",
+    "exampleTranslation": "Eles decidiram recusar juntos."
+  },
+  {
+    "word": "Regret",
+    "translation": "se arrepender",
+    "example": "You have to regret before the meeting.",
+    "exampleTranslation": "Você precisa se arrepender antes da reunião."
+  },
+  {
+    "word": "Reject",
+    "translation": "rejeitar",
+    "example": "I don't want to reject again.",
+    "exampleTranslation": "Eu não quero rejeitar de novo."
+  },
+  {
+    "word": "Release",
+    "translation": "lançar / liberar",
+    "example": "She needs to release as soon as possible.",
+    "exampleTranslation": "Ela precisa lançar / liberar o quanto antes."
+  },
+  {
+    "word": "Rely",
+    "translation": "confiar / depender",
+    "example": "We should rely before it's too late.",
+    "exampleTranslation": "Nós deveríamos confiar / depender antes que seja tarde demais."
+  },
+  {
+    "word": "Remain",
+    "translation": "permanecer",
+    "example": "I'm trying to remain right now.",
+    "exampleTranslation": "Eu estou tentando permanecer agora mesmo."
+  },
+  {
+    "word": "Remind",
+    "translation": "lembrar (alguém)",
+    "example": "It's important to remind carefully.",
+    "exampleTranslation": "É importante lembrar (alguém) com cuidado."
+  },
+  {
+    "word": "Remove",
+    "translation": "remover",
+    "example": "He plans to remove next week.",
+    "exampleTranslation": "Ele planeja remover semana que vem."
+  },
+  {
+    "word": "Repair",
+    "translation": "reparar / consertar",
+    "example": "They decided to repair together.",
+    "exampleTranslation": "Eles decidiram reparar / consertar juntos."
+  },
+  {
+    "word": "Replace",
+    "translation": "substituir",
+    "example": "You have to replace before the meeting.",
+    "exampleTranslation": "Você precisa substituir antes da reunião."
+  },
+  {
+    "word": "Represent",
+    "translation": "representar",
+    "example": "I don't want to represent again.",
+    "exampleTranslation": "Eu não quero representar de novo."
+  },
+  {
+    "word": "Require",
+    "translation": "requerer / exigir",
+    "example": "She needs to require as soon as possible.",
+    "exampleTranslation": "Ela precisa requerer / exigir o quanto antes."
+  },
+  {
+    "word": "Resemble",
+    "translation": "se parecer com",
+    "example": "We should resemble before it's too late.",
+    "exampleTranslation": "Nós deveríamos se parecer com antes que seja tarde demais."
+  },
+  {
+    "word": "Resist",
+    "translation": "resistir",
+    "example": "I'm trying to resist right now.",
+    "exampleTranslation": "Eu estou tentando resistir agora mesmo."
+  },
+  {
+    "word": "Resolve",
+    "translation": "resolver",
+    "example": "It's important to resolve carefully.",
+    "exampleTranslation": "É importante resolver com cuidado."
+  },
+  {
+    "word": "Respond",
+    "translation": "responder",
+    "example": "He plans to respond next week.",
+    "exampleTranslation": "Ele planeja responder semana que vem."
+  },
+  {
+    "word": "Reveal",
+    "translation": "revelar",
+    "example": "They decided to reveal together.",
+    "exampleTranslation": "Eles decidiram revelar juntos."
+  },
+  {
+    "word": "Review",
+    "translation": "revisar",
+    "example": "You have to review before the meeting.",
+    "exampleTranslation": "Você precisa revisar antes da reunião."
+  },
+  {
+    "word": "Reward",
+    "translation": "recompensar",
+    "example": "I don't want to reward again.",
+    "exampleTranslation": "Eu não quero recompensar de novo."
+  },
+  {
+    "word": "Satisfy",
+    "translation": "satisfazer",
+    "example": "She needs to satisfy as soon as possible.",
+    "exampleTranslation": "Ela precisa satisfazer o quanto antes."
+  },
+  {
+    "word": "Search",
+    "translation": "buscar / pesquisar",
+    "example": "We should search before it's too late.",
+    "exampleTranslation": "Nós deveríamos buscar / pesquisar antes que seja tarde demais."
+  },
+  {
+    "word": "Select",
+    "translation": "selecionar",
+    "example": "I'm trying to select right now.",
+    "exampleTranslation": "Eu estou tentando selecionar agora mesmo."
+  },
+  {
+    "word": "Separate",
+    "translation": "separar",
+    "example": "It's important to separate carefully.",
+    "exampleTranslation": "É importante separar com cuidado."
+  },
+  {
+    "word": "Settle",
+    "translation": "se estabelecer / resolver",
+    "example": "He plans to settle next week.",
+    "exampleTranslation": "Ele planeja se estabelecer / resolver semana que vem."
+  },
+  {
+    "word": "Share",
+    "translation": "compartilhar",
+    "example": "They decided to share together.",
+    "exampleTranslation": "Eles decidiram compartilhar juntos."
+  },
+  {
+    "word": "Shift",
+    "translation": "mudar / deslocar",
+    "example": "You have to shift before the meeting.",
+    "exampleTranslation": "Você precisa mudar / deslocar antes da reunião."
+  },
+  {
+    "word": "Solve",
+    "translation": "resolver",
+    "example": "I don't want to solve again.",
+    "exampleTranslation": "Eu não quero resolver de novo."
+  },
+  {
+    "word": "Sort",
+    "translation": "classificar / organizar",
+    "example": "She needs to sort as soon as possible.",
+    "exampleTranslation": "Ela precisa classificar / organizar o quanto antes."
+  },
+  {
+    "word": "Spread",
+    "translation": "espalhar",
+    "example": "We should spread before it's too late.",
+    "exampleTranslation": "Nós deveríamos espalhar antes que seja tarde demais."
+  },
+  {
+    "word": "Struggle",
+    "translation": "lutar / ter dificuldade",
+    "example": "I'm trying to struggle right now.",
+    "exampleTranslation": "Eu estou tentando lutar / ter dificuldade agora mesmo."
+  },
+  {
+    "word": "Suggest",
+    "translation": "sugerir",
+    "example": "It's important to suggest carefully.",
+    "exampleTranslation": "É importante sugerir com cuidado."
+  },
+  {
+    "word": "Support",
+    "translation": "apoiar",
+    "example": "He plans to support next week.",
+    "exampleTranslation": "Ele planeja apoiar semana que vem."
+  },
+  {
+    "word": "Suspect",
+    "translation": "suspeitar",
+    "example": "They decided to suspect together.",
+    "exampleTranslation": "Eles decidiram suspeitar juntos."
+  },
+  {
+    "word": "Tolerate",
+    "translation": "tolerar",
+    "example": "You have to tolerate before the meeting.",
+    "exampleTranslation": "Você precisa tolerar antes da reunião."
+  },
+  {
+    "word": "Trust",
+    "translation": "confiar",
+    "example": "I don't want to trust again.",
+    "exampleTranslation": "Eu não quero confiar de novo."
+  },
+  {
+    "word": "Undertake",
+    "translation": "empreender / assumir",
+    "example": "She needs to undertake as soon as possible.",
+    "exampleTranslation": "Ela precisa empreender / assumir o quanto antes."
+  },
+  {
+    "word": "Volunteer",
+    "translation": "se voluntariar",
+    "example": "We should volunteer before it's too late.",
+    "exampleTranslation": "Nós deveríamos se voluntariar antes que seja tarde demais."
+  },
+  {
+    "word": "Warn",
+    "translation": "avisar",
+    "example": "I'm trying to warn right now.",
+    "exampleTranslation": "Eu estou tentando avisar agora mesmo."
+  },
+  {
+    "word": "Waste",
+    "translation": "desperdiçar",
+    "example": "It's important to waste carefully.",
+    "exampleTranslation": "É importante desperdiçar com cuidado."
+  },
+  {
+    "word": "Wonder",
+    "translation": "imaginar / se perguntar",
+    "example": "He plans to wonder next week.",
+    "exampleTranslation": "Ele planeja imaginar / se perguntar semana que vem."
+  },
+  {
+    "word": "Worry",
+    "translation": "se preocupar",
+    "example": "They decided to worry together.",
+    "exampleTranslation": "Eles decidiram se preocupar juntos."
+  },
+  {
+    "word": "Hydrate",
+    "translation": "se hidratar",
+    "example": "You have to hydrate before the meeting.",
+    "exampleTranslation": "Você precisa se hidratar antes da reunião."
+  },
+  {
+    "word": "Recycle",
+    "translation": "reciclar",
+    "example": "I don't want to recycle again.",
+    "exampleTranslation": "Eu não quero reciclar de novo."
+  },
+  {
+    "word": "Upgrade",
+    "translation": "fazer upgrade / melhorar",
+    "example": "She needs to upgrade as soon as possible.",
+    "exampleTranslation": "Ela precisa fazer upgrade / melhorar o quanto antes."
+  },
+  {
+    "word": "Upload",
+    "translation": "fazer upload",
+    "example": "We should upload before it's too late.",
+    "exampleTranslation": "Nós deveríamos fazer upload antes que seja tarde demais."
+  },
+  {
+    "word": "Download",
+    "translation": "baixar",
+    "example": "I'm trying to download right now.",
+    "exampleTranslation": "Eu estou tentando baixar agora mesmo."
+  },
+  {
+    "word": "Browse",
+    "translation": "navegar (na internet)",
+    "example": "It's important to browse carefully.",
+    "exampleTranslation": "É importante navegar (na internet) com cuidado."
+  },
+  {
+    "word": "Update",
+    "translation": "atualizar",
+    "example": "He plans to update next week.",
+    "exampleTranslation": "Ele planeja atualizar semana que vem."
+  },
+  {
+    "word": "Commute",
+    "translation": "se deslocar (casa-trabalho)",
+    "example": "They decided to commute together.",
+    "exampleTranslation": "Eles decidiram se deslocar (casa-trabalho) juntos."
+  },
+  {
+    "word": "Resign",
+    "translation": "se demitir",
+    "example": "You have to resign before the meeting.",
+    "exampleTranslation": "Você precisa se demitir antes da reunião."
+  },
+  {
+    "word": "Retire",
+    "translation": "se aposentar",
+    "example": "I don't want to retire again.",
+    "exampleTranslation": "Eu não quero se aposentar de novo."
+  },
+  {
+    "word": "Recover",
+    "translation": "se recuperar",
+    "example": "She needs to recover as soon as possible.",
+    "exampleTranslation": "Ela precisa se recuperar o quanto antes."
+  },
+  {
+    "word": "Diagnose",
+    "translation": "diagnosticar",
+    "example": "We should diagnose before it's too late.",
+    "exampleTranslation": "Nós deveríamos diagnosticar antes que seja tarde demais."
+  },
+  {
+    "word": "Prescribe",
+    "translation": "prescrever",
+    "example": "I'm trying to prescribe right now.",
+    "exampleTranslation": "Eu estou tentando prescrever agora mesmo."
+  },
+  {
+    "word": "Exhaust",
+    "translation": "exaurir",
+    "example": "It's important to exhaust carefully.",
+    "exampleTranslation": "É importante exaurir com cuidado."
+  },
+  {
+    "word": "Achievement",
+    "translation": "conquista",
+    "example": "The achievement was more important than we expected.",
+    "exampleTranslation": "O(a) conquista foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Advantage",
+    "translation": "vantagem",
+    "example": "We talked about the advantage for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) vantagem por muito tempo."
+  },
+  {
+    "word": "Advice",
+    "translation": "conselho",
+    "example": "This book explains the advice very well.",
+    "exampleTranslation": "Esse livro explica o(a) conselho muito bem."
+  },
+  {
+    "word": "Agreement",
+    "translation": "acordo",
+    "example": "Her agreement surprised everyone in the room.",
+    "exampleTranslation": "O(a) acordo dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Ambition",
+    "translation": "ambição",
+    "example": "I've never seen such a clear ambition before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) ambição tão claro(a) antes."
+  },
+  {
+    "word": "Amount",
+    "translation": "quantidade",
+    "example": "The whole team focused on the amount.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) quantidade."
+  },
+  {
+    "word": "Anxiety",
+    "translation": "ansiedade",
+    "example": "There was a lot of anxiety during the meeting.",
+    "exampleTranslation": "Houve muito(a) ansiedade durante a reunião."
+  },
+  {
+    "word": "Appearance",
+    "translation": "aparência",
+    "example": "Understanding the appearance took some time.",
+    "exampleTranslation": "Entender o(a) aparência levou um tempo."
+  },
+  {
+    "word": "Approach",
+    "translation": "abordagem",
+    "example": "The approach was more important than we expected.",
+    "exampleTranslation": "O(a) abordagem foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Argument",
+    "translation": "discussão / argumento",
+    "example": "We talked about the argument for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) discussão / argumento por muito tempo."
+  },
+  {
+    "word": "Attitude",
+    "translation": "atitude",
+    "example": "This book explains the attitude very well.",
+    "exampleTranslation": "Esse livro explica o(a) atitude muito bem."
+  },
+  {
+    "word": "Audience",
+    "translation": "plateia / público",
+    "example": "Her audience surprised everyone in the room.",
+    "exampleTranslation": "O(a) plateia / público dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Awareness",
+    "translation": "conscientização",
+    "example": "I've never seen such a clear awareness before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) conscientização tão claro(a) antes."
+  },
+  {
+    "word": "Background",
+    "translation": "antecedentes",
+    "example": "The whole team focused on the background.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) antecedentes."
+  },
+  {
+    "word": "Balance",
+    "translation": "equilíbrio",
+    "example": "There was a lot of balance during the meeting.",
+    "exampleTranslation": "Houve muito(a) equilíbrio durante a reunião."
+  },
+  {
+    "word": "Behavior",
+    "translation": "comportamento",
+    "example": "Understanding the behavior took some time.",
+    "exampleTranslation": "Entender o(a) comportamento levou um tempo."
+  },
+  {
+    "word": "Belief",
+    "translation": "crença",
+    "example": "The belief was more important than we expected.",
+    "exampleTranslation": "O(a) crença foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Benefit",
+    "translation": "benefício",
+    "example": "We talked about the benefit for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) benefício por muito tempo."
+  },
+  {
+    "word": "Budget",
+    "translation": "orçamento",
+    "example": "This book explains the budget very well.",
+    "exampleTranslation": "Esse livro explica o(a) orçamento muito bem."
+  },
+  {
+    "word": "Career",
+    "translation": "carreira",
+    "example": "Her career surprised everyone in the room.",
+    "exampleTranslation": "O(a) carreira dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Circumstance",
+    "translation": "circunstância",
+    "example": "I've never seen such a clear circumstance before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) circunstância tão claro(a) antes."
+  },
+  {
+    "word": "Comfort",
+    "translation": "conforto",
+    "example": "The whole team focused on the comfort.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) conforto."
+  },
+  {
+    "word": "Commitment",
+    "translation": "compromisso",
+    "example": "There was a lot of commitment during the meeting.",
+    "exampleTranslation": "Houve muito(a) compromisso durante a reunião."
+  },
+  {
+    "word": "Community",
+    "translation": "comunidade",
+    "example": "Understanding the community took some time.",
+    "exampleTranslation": "Entender o(a) comunidade levou um tempo."
+  },
+  {
+    "word": "Competition",
+    "translation": "competição",
+    "example": "The competition was more important than we expected.",
+    "exampleTranslation": "O(a) competição foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Concept",
+    "translation": "conceito",
+    "example": "We talked about the concept for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) conceito por muito tempo."
+  },
+  {
+    "word": "Concern",
+    "translation": "preocupação",
+    "example": "This book explains the concern very well.",
+    "exampleTranslation": "Esse livro explica o(a) preocupação muito bem."
+  },
+  {
+    "word": "Confidence",
+    "translation": "confiança",
+    "example": "Her confidence surprised everyone in the room.",
+    "exampleTranslation": "O(a) confiança dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Conflict",
+    "translation": "conflito",
+    "example": "I've never seen such a clear conflict before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) conflito tão claro(a) antes."
+  },
+  {
+    "word": "Connection",
+    "translation": "conexão",
+    "example": "The whole team focused on the connection.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) conexão."
+  },
+  {
+    "word": "Consequence",
+    "translation": "consequência",
+    "example": "There was a lot of consequence during the meeting.",
+    "exampleTranslation": "Houve muito(a) consequência durante a reunião."
+  },
+  {
+    "word": "Content",
+    "translation": "conteúdo",
+    "example": "Understanding the content took some time.",
+    "exampleTranslation": "Entender o(a) conteúdo levou um tempo."
+  },
+  {
+    "word": "Context",
+    "translation": "contexto",
+    "example": "The context was more important than we expected.",
+    "exampleTranslation": "O(a) contexto foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Contract",
+    "translation": "contrato",
+    "example": "We talked about the contract for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) contrato por muito tempo."
+  },
+  {
+    "word": "Contribution",
+    "translation": "contribuição",
+    "example": "This book explains the contribution very well.",
+    "exampleTranslation": "Esse livro explica o(a) contribuição muito bem."
+  },
+  {
+    "word": "Controversy",
+    "translation": "controvérsia",
+    "example": "Her controversy surprised everyone in the room.",
+    "exampleTranslation": "O(a) controvérsia dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Crowd",
+    "translation": "multidão",
+    "example": "I've never seen such a clear crowd before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) multidão tão claro(a) antes."
+  },
+  {
+    "word": "Curiosity",
+    "translation": "curiosidade",
+    "example": "The whole team focused on the curiosity.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) curiosidade."
+  },
+  {
+    "word": "Debate",
+    "translation": "debate",
+    "example": "There was a lot of debate during the meeting.",
+    "exampleTranslation": "Houve muito(a) debate durante a reunião."
+  },
+  {
+    "word": "Decision",
+    "translation": "decisão",
+    "example": "Understanding the decision took some time.",
+    "exampleTranslation": "Entender o(a) decisão levou um tempo."
+  },
+  {
+    "word": "Demand",
+    "translation": "demanda / exigência",
+    "example": "The demand was more important than we expected.",
+    "exampleTranslation": "O(a) demanda / exigência foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Depression",
+    "translation": "depressão",
+    "example": "We talked about the depression for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) depressão por muito tempo."
+  },
+  {
+    "word": "Detail",
+    "translation": "detalhe",
+    "example": "This book explains the detail very well.",
+    "exampleTranslation": "Esse livro explica o(a) detalhe muito bem."
+  },
+  {
+    "word": "Determination",
+    "translation": "determinação",
+    "example": "Her determination surprised everyone in the room.",
+    "exampleTranslation": "O(a) determinação dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Device",
+    "translation": "dispositivo",
+    "example": "I've never seen such a clear device before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) dispositivo tão claro(a) antes."
+  },
+  {
+    "word": "Discipline",
+    "translation": "disciplina",
+    "example": "The whole team focused on the discipline.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) disciplina."
+  },
+  {
+    "word": "Discovery",
+    "translation": "descoberta",
+    "example": "There was a lot of discovery during the meeting.",
+    "exampleTranslation": "Houve muito(a) descoberta durante a reunião."
+  },
+  {
+    "word": "Distance",
+    "translation": "distância",
+    "example": "Understanding the distance took some time.",
+    "exampleTranslation": "Entender o(a) distância levou um tempo."
+  },
+  {
+    "word": "Diversity",
+    "translation": "diversidade",
+    "example": "The diversity was more important than we expected.",
+    "exampleTranslation": "O(a) diversidade foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Donation",
+    "translation": "doação",
+    "example": "We talked about the donation for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) doação por muito tempo."
+  },
+  {
+    "word": "Economy",
+    "translation": "economia",
+    "example": "This book explains the economy very well.",
+    "exampleTranslation": "Esse livro explica o(a) economia muito bem."
+  },
+  {
+    "word": "Effort",
+    "translation": "esforço",
+    "example": "Her effort surprised everyone in the room.",
+    "exampleTranslation": "O(a) esforço dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Element",
+    "translation": "elemento",
+    "example": "I've never seen such a clear element before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) elemento tão claro(a) antes."
+  },
+  {
+    "word": "Emotion",
+    "translation": "emoção",
+    "example": "The whole team focused on the emotion.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) emoção."
+  },
+  {
+    "word": "Emphasis",
+    "translation": "ênfase",
+    "example": "There was a lot of emphasis during the meeting.",
+    "exampleTranslation": "Houve muito(a) ênfase durante a reunião."
+  },
+  {
+    "word": "Employment",
+    "translation": "emprego",
+    "example": "Understanding the employment took some time.",
+    "exampleTranslation": "Entender o(a) emprego levou um tempo."
+  },
+  {
+    "word": "Encouragement",
+    "translation": "incentivo",
+    "example": "The encouragement was more important than we expected.",
+    "exampleTranslation": "O(a) incentivo foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Environment",
+    "translation": "meio ambiente",
+    "example": "We talked about the environment for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) meio ambiente por muito tempo."
+  },
+  {
+    "word": "Equipment",
+    "translation": "equipamento",
+    "example": "This book explains the equipment very well.",
+    "exampleTranslation": "Esse livro explica o(a) equipamento muito bem."
+  },
+  {
+    "word": "Era",
+    "translation": "era / época",
+    "example": "Her era surprised everyone in the room.",
+    "exampleTranslation": "O(a) era / época dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Evidence",
+    "translation": "evidência",
+    "example": "I've never seen such a clear evidence before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) evidência tão claro(a) antes."
+  },
+  {
+    "word": "Exception",
+    "translation": "exceção",
+    "example": "The whole team focused on the exception.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) exceção."
+  },
+  {
+    "word": "Exchange",
+    "translation": "troca",
+    "example": "There was a lot of exchange during the meeting.",
+    "exampleTranslation": "Houve muito(a) troca durante a reunião."
+  },
+  {
+    "word": "Expectation",
+    "translation": "expectativa",
+    "example": "Understanding the expectation took some time.",
+    "exampleTranslation": "Entender o(a) expectativa levou um tempo."
+  },
+  {
+    "word": "Experience",
+    "translation": "experiência",
+    "example": "The experience was more important than we expected.",
+    "exampleTranslation": "O(a) experiência foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Expert",
+    "translation": "especialista",
+    "example": "We talked about the expert for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) especialista por muito tempo."
+  },
+  {
+    "word": "Exposure",
+    "translation": "exposição",
+    "example": "This book explains the exposure very well.",
+    "exampleTranslation": "Esse livro explica o(a) exposição muito bem."
+  },
+  {
+    "word": "Fact",
+    "translation": "fato",
+    "example": "Her fact surprised everyone in the room.",
+    "exampleTranslation": "O(a) fato dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Failure",
+    "translation": "fracasso",
+    "example": "I've never seen such a clear failure before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) fracasso tão claro(a) antes."
+  },
+  {
+    "word": "Fairness",
+    "translation": "justiça / imparcialidade",
+    "example": "The whole team focused on the fairness.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) justiça / imparcialidade."
+  },
+  {
+    "word": "Faith",
+    "translation": "fé",
+    "example": "There was a lot of faith during the meeting.",
+    "exampleTranslation": "Houve muito(a) fé durante a reunião."
+  },
+  {
+    "word": "Feedback",
+    "translation": "retorno",
+    "example": "Understanding the feedback took some time.",
+    "exampleTranslation": "Entender o(a) retorno levou um tempo."
+  },
+  {
+    "word": "Flexibility",
+    "translation": "flexibilidade",
+    "example": "The flexibility was more important than we expected.",
+    "exampleTranslation": "O(a) flexibilidade foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Fortune",
+    "translation": "fortuna / sorte",
+    "example": "We talked about the fortune for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) fortuna / sorte por muito tempo."
+  },
+  {
+    "word": "Freedom",
+    "translation": "liberdade",
+    "example": "This book explains the freedom very well.",
+    "exampleTranslation": "Esse livro explica o(a) liberdade muito bem."
+  },
+  {
+    "word": "Friendship",
+    "translation": "amizade",
+    "example": "Her friendship surprised everyone in the room.",
+    "exampleTranslation": "O(a) amizade dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Frustration",
+    "translation": "frustração",
+    "example": "I've never seen such a clear frustration before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) frustração tão claro(a) antes."
+  },
+  {
+    "word": "Function",
+    "translation": "função",
+    "example": "The whole team focused on the function.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) função."
+  },
+  {
+    "word": "Gap",
+    "translation": "lacuna",
+    "example": "There was a lot of gap during the meeting.",
+    "exampleTranslation": "Houve muito(a) lacuna durante a reunião."
+  },
+  {
+    "word": "Generation",
+    "translation": "geração",
+    "example": "Understanding the generation took some time.",
+    "exampleTranslation": "Entender o(a) geração levou um tempo."
+  },
+  {
+    "word": "Goal",
+    "translation": "meta / objetivo",
+    "example": "The goal was more important than we expected.",
+    "exampleTranslation": "O(a) meta / objetivo foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Growth",
+    "translation": "crescimento",
+    "example": "We talked about the growth for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) crescimento por muito tempo."
+  },
+  {
+    "word": "Guideline",
+    "translation": "diretriz",
+    "example": "This book explains the guideline very well.",
+    "exampleTranslation": "Esse livro explica o(a) diretriz muito bem."
+  },
+  {
+    "word": "Habit",
+    "translation": "hábito",
+    "example": "Her habit surprised everyone in the room.",
+    "exampleTranslation": "O(a) hábito dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Harmony",
+    "translation": "harmonia",
+    "example": "I've never seen such a clear harmony before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) harmonia tão claro(a) antes."
+  },
+  {
+    "word": "Honesty",
+    "translation": "honestidade",
+    "example": "The whole team focused on the honesty.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) honestidade."
+  },
+  {
+    "word": "Hope",
+    "translation": "esperança",
+    "example": "There was a lot of hope during the meeting.",
+    "exampleTranslation": "Houve muito(a) esperança durante a reunião."
+  },
+  {
+    "word": "Identity",
+    "translation": "identidade",
+    "example": "Understanding the identity took some time.",
+    "exampleTranslation": "Entender o(a) identidade levou um tempo."
+  },
+  {
+    "word": "Image",
+    "translation": "imagem",
+    "example": "The image was more important than we expected.",
+    "exampleTranslation": "O(a) imagem foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Impact",
+    "translation": "impacto",
+    "example": "We talked about the impact for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) impacto por muito tempo."
+  },
+  {
+    "word": "Impression",
+    "translation": "impressão",
+    "example": "This book explains the impression very well.",
+    "exampleTranslation": "Esse livro explica o(a) impressão muito bem."
+  },
+  {
+    "word": "Improvement",
+    "translation": "melhoria",
+    "example": "Her improvement surprised everyone in the room.",
+    "exampleTranslation": "O(a) melhoria dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Independence",
+    "translation": "independência",
+    "example": "I've never seen such a clear independence before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) independência tão claro(a) antes."
+  },
+  {
+    "word": "Insight",
+    "translation": "percepção",
+    "example": "The whole team focused on the insight.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) percepção."
+  },
+  {
+    "word": "Instinct",
+    "translation": "instinto",
+    "example": "There was a lot of instinct during the meeting.",
+    "exampleTranslation": "Houve muito(a) instinto durante a reunião."
+  },
+  {
+    "word": "Instruction",
+    "translation": "instrução",
+    "example": "Understanding the instruction took some time.",
+    "exampleTranslation": "Entender o(a) instrução levou um tempo."
+  },
+  {
+    "word": "Intelligence",
+    "translation": "inteligência",
+    "example": "The intelligence was more important than we expected.",
+    "exampleTranslation": "O(a) inteligência foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Intention",
+    "translation": "intenção",
+    "example": "We talked about the intention for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) intenção por muito tempo."
+  },
+  {
+    "word": "Interaction",
+    "translation": "interação",
+    "example": "This book explains the interaction very well.",
+    "exampleTranslation": "Esse livro explica o(a) interação muito bem."
+  },
+  {
+    "word": "Investment",
+    "translation": "investimento",
+    "example": "Her investment surprised everyone in the room.",
+    "exampleTranslation": "O(a) investimento dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Issue",
+    "translation": "questão / problema",
+    "example": "I've never seen such a clear issue before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) questão / problema tão claro(a) antes."
+  },
+  {
+    "word": "Journey",
+    "translation": "jornada",
+    "example": "The whole team focused on the journey.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) jornada."
+  },
+  {
+    "word": "Judgment",
+    "translation": "julgamento",
+    "example": "There was a lot of judgment during the meeting.",
+    "exampleTranslation": "Houve muito(a) julgamento durante a reunião."
+  },
+  {
+    "word": "Justice",
+    "translation": "justiça",
+    "example": "Understanding the justice took some time.",
+    "exampleTranslation": "Entender o(a) justiça levou um tempo."
+  },
+  {
+    "word": "Knowledge",
+    "translation": "conhecimento",
+    "example": "The knowledge was more important than we expected.",
+    "exampleTranslation": "O(a) conhecimento foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Lack",
+    "translation": "falta",
+    "example": "We talked about the lack for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) falta por muito tempo."
+  },
+  {
+    "word": "Leadership",
+    "translation": "liderança",
+    "example": "This book explains the leadership very well.",
+    "exampleTranslation": "Esse livro explica o(a) liderança muito bem."
+  },
+  {
+    "word": "Lifestyle",
+    "translation": "estilo de vida",
+    "example": "Her lifestyle surprised everyone in the room.",
+    "exampleTranslation": "O(a) estilo de vida dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Limit",
+    "translation": "limite",
+    "example": "I've never seen such a clear limit before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) limite tão claro(a) antes."
+  },
+  {
+    "word": "Loyalty",
+    "translation": "lealdade",
+    "example": "The whole team focused on the loyalty.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) lealdade."
+  },
+  {
+    "word": "Maintenance",
+    "translation": "manutenção",
+    "example": "There was a lot of maintenance during the meeting.",
+    "exampleTranslation": "Houve muito(a) manutenção durante a reunião."
+  },
+  {
+    "word": "Majority",
+    "translation": "maioria",
+    "example": "Understanding the majority took some time.",
+    "exampleTranslation": "Entender o(a) maioria levou um tempo."
+  },
+  {
+    "word": "Matter",
+    "translation": "assunto / questão",
+    "example": "The matter was more important than we expected.",
+    "exampleTranslation": "O(a) assunto / questão foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Meaning",
+    "translation": "significado",
+    "example": "We talked about the meaning for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) significado por muito tempo."
+  },
+  {
+    "word": "Measure",
+    "translation": "medida",
+    "example": "This book explains the measure very well.",
+    "exampleTranslation": "Esse livro explica o(a) medida muito bem."
+  },
+  {
+    "word": "Memory",
+    "translation": "memória",
+    "example": "Her memory surprised everyone in the room.",
+    "exampleTranslation": "O(a) memória dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Mindset",
+    "translation": "mentalidade",
+    "example": "I've never seen such a clear mindset before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) mentalidade tão claro(a) antes."
+  },
+  {
+    "word": "Mission",
+    "translation": "missão",
+    "example": "The whole team focused on the mission.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) missão."
+  },
+  {
+    "word": "Mistake",
+    "translation": "erro",
+    "example": "There was a lot of mistake during the meeting.",
+    "exampleTranslation": "Houve muito(a) erro durante a reunião."
+  },
+  {
+    "word": "Mixture",
+    "translation": "mistura",
+    "example": "Understanding the mixture took some time.",
+    "exampleTranslation": "Entender o(a) mistura levou um tempo."
+  },
+  {
+    "word": "Mood",
+    "translation": "humor",
+    "example": "The mood was more important than we expected.",
+    "exampleTranslation": "O(a) humor foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Motivation",
+    "translation": "motivação",
+    "example": "We talked about the motivation for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) motivação por muito tempo."
+  },
+  {
+    "word": "Movement",
+    "translation": "movimento",
+    "example": "This book explains the movement very well.",
+    "exampleTranslation": "Esse livro explica o(a) movimento muito bem."
+  },
+  {
+    "word": "Need",
+    "translation": "necessidade",
+    "example": "Her need surprised everyone in the room.",
+    "exampleTranslation": "O(a) necessidade dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Network",
+    "translation": "rede",
+    "example": "I've never seen such a clear network before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) rede tão claro(a) antes."
+  },
+  {
+    "word": "Objective",
+    "translation": "objetivo",
+    "example": "The whole team focused on the objective.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) objetivo."
+  },
+  {
+    "word": "Obstacle",
+    "translation": "obstáculo",
+    "example": "There was a lot of obstacle during the meeting.",
+    "exampleTranslation": "Houve muito(a) obstáculo durante a reunião."
+  },
+  {
+    "word": "Occasion",
+    "translation": "ocasião",
+    "example": "Understanding the occasion took some time.",
+    "exampleTranslation": "Entender o(a) ocasião levou um tempo."
+  },
+  {
+    "word": "Opinion",
+    "translation": "opinião",
+    "example": "The opinion was more important than we expected.",
+    "exampleTranslation": "O(a) opinião foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Opportunity",
+    "translation": "oportunidade",
+    "example": "We talked about the opportunity for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) oportunidade por muito tempo."
+  },
+  {
+    "word": "Option",
+    "translation": "opção",
+    "example": "This book explains the option very well.",
+    "exampleTranslation": "Esse livro explica o(a) opção muito bem."
+  },
+  {
+    "word": "Outcome",
+    "translation": "resultado",
+    "example": "Her outcome surprised everyone in the room.",
+    "exampleTranslation": "O(a) resultado dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Overview",
+    "translation": "visão geral",
+    "example": "I've never seen such a clear overview before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) visão geral tão claro(a) antes."
+  },
+  {
+    "word": "Patience",
+    "translation": "paciência",
+    "example": "The whole team focused on the patience.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) paciência."
+  },
+  {
+    "word": "Pattern",
+    "translation": "padrão",
+    "example": "There was a lot of pattern during the meeting.",
+    "exampleTranslation": "Houve muito(a) padrão durante a reunião."
+  },
+  {
+    "word": "Perception",
+    "translation": "percepção",
+    "example": "Understanding the perception took some time.",
+    "exampleTranslation": "Entender o(a) percepção levou um tempo."
+  },
+  {
+    "word": "Permission",
+    "translation": "permissão",
+    "example": "The permission was more important than we expected.",
+    "exampleTranslation": "O(a) permissão foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Perspective",
+    "translation": "perspectiva",
+    "example": "We talked about the perspective for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) perspectiva por muito tempo."
+  },
+  {
+    "word": "Phase",
+    "translation": "fase",
+    "example": "This book explains the phase very well.",
+    "exampleTranslation": "Esse livro explica o(a) fase muito bem."
+  },
+  {
+    "word": "Philosophy",
+    "translation": "filosofia",
+    "example": "Her philosophy surprised everyone in the room.",
+    "exampleTranslation": "O(a) filosofia dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Policy",
+    "translation": "política",
+    "example": "I've never seen such a clear policy before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) política tão claro(a) antes."
+  },
+  {
+    "word": "Possibility",
+    "translation": "possibilidade",
+    "example": "The whole team focused on the possibility.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) possibilidade."
+  },
+  {
+    "word": "Poverty",
+    "translation": "pobreza",
+    "example": "There was a lot of poverty during the meeting.",
+    "exampleTranslation": "Houve muito(a) pobreza durante a reunião."
+  },
+  {
+    "word": "Practice",
+    "translation": "prática",
+    "example": "Understanding the practice took some time.",
+    "exampleTranslation": "Entender o(a) prática levou um tempo."
+  },
+  {
+    "word": "Presence",
+    "translation": "presença",
+    "example": "The presence was more important than we expected.",
+    "exampleTranslation": "O(a) presença foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Pressure",
+    "translation": "pressão",
+    "example": "We talked about the pressure for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) pressão por muito tempo."
+  },
+  {
+    "word": "Pride",
+    "translation": "orgulho",
+    "example": "This book explains the pride very well.",
+    "exampleTranslation": "Esse livro explica o(a) orgulho muito bem."
+  },
+  {
+    "word": "Priority",
+    "translation": "prioridade",
+    "example": "Her priority surprised everyone in the room.",
+    "exampleTranslation": "O(a) prioridade dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Privacy",
+    "translation": "privacidade",
+    "example": "I've never seen such a clear privacy before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) privacidade tão claro(a) antes."
+  },
+  {
+    "word": "Process",
+    "translation": "processo",
+    "example": "The whole team focused on the process.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) processo."
+  },
+  {
+    "word": "Progress",
+    "translation": "progresso",
+    "example": "There was a lot of progress during the meeting.",
+    "exampleTranslation": "Houve muito(a) progresso durante a reunião."
+  },
+  {
+    "word": "Proof",
+    "translation": "prova",
+    "example": "Understanding the proof took some time.",
+    "exampleTranslation": "Entender o(a) prova levou um tempo."
+  },
+  {
+    "word": "Property",
+    "translation": "propriedade",
+    "example": "The property was more important than we expected.",
+    "exampleTranslation": "O(a) propriedade foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Proposal",
+    "translation": "proposta",
+    "example": "We talked about the proposal for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) proposta por muito tempo."
+  },
+  {
+    "word": "Purpose",
+    "translation": "propósito",
+    "example": "This book explains the purpose very well.",
+    "exampleTranslation": "Esse livro explica o(a) propósito muito bem."
+  },
+  {
+    "word": "Quality",
+    "translation": "qualidade",
+    "example": "Her quality surprised everyone in the room.",
+    "exampleTranslation": "O(a) qualidade dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Quantity",
+    "translation": "quantidade",
+    "example": "I've never seen such a clear quantity before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) quantidade tão claro(a) antes."
+  },
+  {
+    "word": "Reaction",
+    "translation": "reação",
+    "example": "The whole team focused on the reaction.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) reação."
+  },
+  {
+    "word": "Reality",
+    "translation": "realidade",
+    "example": "There was a lot of reality during the meeting.",
+    "exampleTranslation": "Houve muito(a) realidade durante a reunião."
+  },
+  {
+    "word": "Reason",
+    "translation": "motivo / razão",
+    "example": "Understanding the reason took some time.",
+    "exampleTranslation": "Entender o(a) motivo / razão levou um tempo."
+  },
+  {
+    "word": "Recognition",
+    "translation": "reconhecimento",
+    "example": "The recognition was more important than we expected.",
+    "exampleTranslation": "O(a) reconhecimento foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Relationship",
+    "translation": "relacionamento",
+    "example": "We talked about the relationship for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) relacionamento por muito tempo."
+  },
+  {
+    "word": "Reliability",
+    "translation": "confiabilidade",
+    "example": "This book explains the reliability very well.",
+    "exampleTranslation": "Esse livro explica o(a) confiabilidade muito bem."
+  },
+  {
+    "word": "Relief",
+    "translation": "alívio",
+    "example": "Her relief surprised everyone in the room.",
+    "exampleTranslation": "O(a) alívio dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Reputation",
+    "translation": "reputação",
+    "example": "I've never seen such a clear reputation before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) reputação tão claro(a) antes."
+  },
+  {
+    "word": "Requirement",
+    "translation": "requisito",
+    "example": "The whole team focused on the requirement.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) requisito."
+  },
+  {
+    "word": "Research",
+    "translation": "pesquisa",
+    "example": "There was a lot of research during the meeting.",
+    "exampleTranslation": "Houve muito(a) pesquisa durante a reunião."
+  },
+  {
+    "word": "Resource",
+    "translation": "recurso",
+    "example": "Understanding the resource took some time.",
+    "exampleTranslation": "Entender o(a) recurso levou um tempo."
+  },
+  {
+    "word": "Respect",
+    "translation": "respeito",
+    "example": "The respect was more important than we expected.",
+    "exampleTranslation": "O(a) respeito foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Responsibility",
+    "translation": "responsabilidade",
+    "example": "We talked about the responsibility for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) responsabilidade por muito tempo."
+  },
+  {
+    "word": "Result",
+    "translation": "resultado",
+    "example": "This book explains the result very well.",
+    "exampleTranslation": "Esse livro explica o(a) resultado muito bem."
+  },
+  {
+    "word": "Risk",
+    "translation": "risco",
+    "example": "Her risk surprised everyone in the room.",
+    "exampleTranslation": "O(a) risco dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Routine",
+    "translation": "rotina",
+    "example": "I've never seen such a clear routine before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) rotina tão claro(a) antes."
+  },
+  {
+    "word": "Rule",
+    "translation": "regra",
+    "example": "The whole team focused on the rule.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) regra."
+  },
+  {
+    "word": "Satisfaction",
+    "translation": "satisfação",
+    "example": "There was a lot of satisfaction during the meeting.",
+    "exampleTranslation": "Houve muito(a) satisfação durante a reunião."
+  },
+  {
+    "word": "Scenario",
+    "translation": "cenário",
+    "example": "Understanding the scenario took some time.",
+    "exampleTranslation": "Entender o(a) cenário levou um tempo."
+  },
+  {
+    "word": "Schedule",
+    "translation": "agenda / cronograma",
+    "example": "The schedule was more important than we expected.",
+    "exampleTranslation": "O(a) agenda / cronograma foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Sense",
+    "translation": "senso / sentido",
+    "example": "We talked about the sense for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) senso / sentido por muito tempo."
+  },
+  {
+    "word": "Situation",
+    "translation": "situação",
+    "example": "This book explains the situation very well.",
+    "exampleTranslation": "Esse livro explica o(a) situação muito bem."
+  },
+  {
+    "word": "Skill",
+    "translation": "habilidade",
+    "example": "Her skill surprised everyone in the room.",
+    "exampleTranslation": "O(a) habilidade dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Society",
+    "translation": "sociedade",
+    "example": "I've never seen such a clear society before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) sociedade tão claro(a) antes."
+  },
+  {
+    "word": "Solution",
+    "translation": "solução",
+    "example": "The whole team focused on the solution.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) solução."
+  },
+  {
+    "word": "Source",
+    "translation": "fonte",
+    "example": "There was a lot of source during the meeting.",
+    "exampleTranslation": "Houve muito(a) fonte durante a reunião."
+  },
+  {
+    "word": "Stage",
+    "translation": "estágio / etapa",
+    "example": "Understanding the stage took some time.",
+    "exampleTranslation": "Entender o(a) estágio / etapa levou um tempo."
+  },
+  {
+    "word": "Standard",
+    "translation": "padrão",
+    "example": "The standard was more important than we expected.",
+    "exampleTranslation": "O(a) padrão foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Strategy",
+    "translation": "estratégia",
+    "example": "We talked about the strategy for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) estratégia por muito tempo."
+  },
+  {
+    "word": "Strength",
+    "translation": "força",
+    "example": "This book explains the strength very well.",
+    "exampleTranslation": "Esse livro explica o(a) força muito bem."
+  },
+  {
+    "word": "Structure",
+    "translation": "estrutura",
+    "example": "Her structure surprised everyone in the room.",
+    "exampleTranslation": "O(a) estrutura dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Success",
+    "translation": "sucesso",
+    "example": "I've never seen such a clear success before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) sucesso tão claro(a) antes."
+  },
+  {
+    "word": "Surface",
+    "translation": "superfície",
+    "example": "The whole team focused on the surface.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) superfície."
+  },
+  {
+    "word": "Talent",
+    "translation": "talento",
+    "example": "There was a lot of talent during the meeting.",
+    "exampleTranslation": "Houve muito(a) talento durante a reunião."
+  },
+  {
+    "word": "Task",
+    "translation": "tarefa",
+    "example": "Understanding the task took some time.",
+    "exampleTranslation": "Entender o(a) tarefa levou um tempo."
+  },
+  {
+    "word": "Workload",
+    "translation": "carga de trabalho",
+    "example": "The workload was more important than we expected.",
+    "exampleTranslation": "O(a) carga de trabalho foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Deadline",
+    "translation": "prazo final",
+    "example": "We talked about the deadline for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) prazo final por muito tempo."
+  },
+  {
+    "word": "Overtime",
+    "translation": "hora extra",
+    "example": "This book explains the overtime very well.",
+    "exampleTranslation": "Esse livro explica o(a) hora extra muito bem."
+  },
+  {
+    "word": "Promotion",
+    "translation": "promoção (cargo)",
+    "example": "Her promotion surprised everyone in the room.",
+    "exampleTranslation": "O(a) promoção (cargo) dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Resignation",
+    "translation": "pedido de demissão",
+    "example": "I've never seen such a clear resignation before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) pedido de demissão tão claro(a) antes."
+  },
+  {
+    "word": "Interview",
+    "translation": "entrevista",
+    "example": "The whole team focused on the interview.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) entrevista."
+  },
+  {
+    "word": "Candidate",
+    "translation": "candidato(a)",
+    "example": "There was a lot of candidate during the meeting.",
+    "exampleTranslation": "Houve muito(a) candidato(a) durante a reunião."
+  },
+  {
+    "word": "Qualification",
+    "translation": "qualificação",
+    "example": "Understanding the qualification took some time.",
+    "exampleTranslation": "Entender o(a) qualificação levou um tempo."
+  },
+  {
+    "word": "Internship",
+    "translation": "estágio",
+    "example": "The internship was more important than we expected.",
+    "exampleTranslation": "O(a) estágio foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Colleague",
+    "translation": "colega de trabalho",
+    "example": "We talked about the colleague for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) colega de trabalho por muito tempo."
+  },
+  {
+    "word": "Supervisor",
+    "translation": "supervisor(a)",
+    "example": "This book explains the supervisor very well.",
+    "exampleTranslation": "Esse livro explica o(a) supervisor(a) muito bem."
+  },
+  {
+    "word": "Symptom",
+    "translation": "sintoma",
+    "example": "Her symptom surprised everyone in the room.",
+    "exampleTranslation": "O(a) sintoma dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Diagnosis",
+    "translation": "diagnóstico",
+    "example": "I've never seen such a clear diagnosis before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) diagnóstico tão claro(a) antes."
+  },
+  {
+    "word": "Treatment",
+    "translation": "tratamento",
+    "example": "The whole team focused on the treatment.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) tratamento."
+  },
+  {
+    "word": "Recovery",
+    "translation": "recuperação",
+    "example": "There was a lot of recovery during the meeting.",
+    "exampleTranslation": "Houve muito(a) recuperação durante a reunião."
+  },
+  {
+    "word": "Prescription",
+    "translation": "receita médica",
+    "example": "Understanding the prescription took some time.",
+    "exampleTranslation": "Entender o(a) receita médica levou um tempo."
+  },
+  {
+    "word": "Nutrition",
+    "translation": "nutrição",
+    "example": "The nutrition was more important than we expected.",
+    "exampleTranslation": "O(a) nutrição foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Exercise",
+    "translation": "exercício",
+    "example": "We talked about the exercise for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) exercício por muito tempo."
+  },
+  {
+    "word": "Fitness",
+    "translation": "condicionamento físico",
+    "example": "This book explains the fitness very well.",
+    "exampleTranslation": "Esse livro explica o(a) condicionamento físico muito bem."
+  },
+  {
+    "word": "Exhaustion",
+    "translation": "exaustão",
+    "example": "Her exhaustion surprised everyone in the room.",
+    "exampleTranslation": "O(a) exaustão dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Allergy",
+    "translation": "alergia",
+    "example": "I've never seen such a clear allergy before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) alergia tão claro(a) antes."
+  },
+  {
+    "word": "Injury",
+    "translation": "lesão",
+    "example": "The whole team focused on the injury.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) lesão."
+  },
+  {
+    "word": "Climate",
+    "translation": "clima",
+    "example": "There was a lot of climate during the meeting.",
+    "exampleTranslation": "Houve muito(a) clima durante a reunião."
+  },
+  {
+    "word": "Pollution",
+    "translation": "poluição",
+    "example": "Understanding the pollution took some time.",
+    "exampleTranslation": "Entender o(a) poluição levou um tempo."
+  },
+  {
+    "word": "Emission",
+    "translation": "emissão poluente",
+    "example": "The emission was more important than we expected.",
+    "exampleTranslation": "O(a) emissão poluente foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Drought",
+    "translation": "seca",
+    "example": "We talked about the drought for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) seca por muito tempo."
+  },
+  {
+    "word": "Shortage",
+    "translation": "escassez",
+    "example": "This book explains the shortage very well.",
+    "exampleTranslation": "Esse livro explica o(a) escassez muito bem."
+  },
+  {
+    "word": "Wildlife",
+    "translation": "vida selvagem",
+    "example": "Her wildlife surprised everyone in the room.",
+    "exampleTranslation": "O(a) vida selvagem dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Ecosystem",
+    "translation": "ecossistema",
+    "example": "I've never seen such a clear ecosystem before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) ecossistema tão claro(a) antes."
+  },
+  {
+    "word": "Conservation",
+    "translation": "conservação",
+    "example": "The whole team focused on the conservation.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) conservação."
+  },
+  {
+    "word": "Deforestation",
+    "translation": "desmatamento",
+    "example": "There was a lot of deforestation during the meeting.",
+    "exampleTranslation": "Houve muito(a) desmatamento durante a reunião."
+  },
+  {
+    "word": "Forecast",
+    "translation": "previsão",
+    "example": "Understanding the forecast took some time.",
+    "exampleTranslation": "Entender o(a) previsão levou um tempo."
+  },
+  {
+    "word": "Temperature",
+    "translation": "temperatura",
+    "example": "The temperature was more important than we expected.",
+    "exampleTranslation": "O(a) temperatura foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Humidity",
+    "translation": "umidade",
+    "example": "We talked about the humidity for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) umidade por muito tempo."
+  },
+  {
+    "word": "Itinerary",
+    "translation": "itinerário",
+    "example": "This book explains the itinerary very well.",
+    "exampleTranslation": "Esse livro explica o(a) itinerário muito bem."
+  },
+  {
+    "word": "Accommodation",
+    "translation": "acomodação / hospedagem",
+    "example": "Her accommodation surprised everyone in the room.",
+    "exampleTranslation": "O(a) acomodação / hospedagem dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Destination",
+    "translation": "destino",
+    "example": "I've never seen such a clear destination before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) destino tão claro(a) antes."
+  },
+  {
+    "word": "Luggage",
+    "translation": "bagagem",
+    "example": "The whole team focused on the luggage.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) bagagem."
+  },
+  {
+    "word": "Souvenir",
+    "translation": "lembrança de viagem",
+    "example": "There was a lot of souvenir during the meeting.",
+    "exampleTranslation": "Houve muito(a) lembrança de viagem durante a reunião."
+  },
+  {
+    "word": "Currency",
+    "translation": "moeda",
+    "example": "Understanding the currency took some time.",
+    "exampleTranslation": "Entender o(a) moeda levou um tempo."
+  },
+  {
+    "word": "Customs",
+    "translation": "alfândega",
+    "example": "The customs was more important than we expected.",
+    "exampleTranslation": "O(a) alfândega foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Passport",
+    "translation": "passaporte",
+    "example": "We talked about the passport for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) passaporte por muito tempo."
+  },
+  {
+    "word": "Password",
+    "translation": "senha",
+    "example": "This book explains the password very well.",
+    "exampleTranslation": "Esse livro explica o(a) senha muito bem."
+  },
+  {
+    "word": "Subscription",
+    "translation": "assinatura",
+    "example": "Her subscription surprised everyone in the room.",
+    "exampleTranslation": "O(a) assinatura dela surpreendeu todo mundo na sala."
+  },
+  {
+    "word": "Notification",
+    "translation": "notificação",
+    "example": "I've never seen such a clear notification before.",
+    "exampleTranslation": "Eu nunca tinha visto um(a) notificação tão claro(a) antes."
+  },
+  {
+    "word": "Glitch",
+    "translation": "falha / bug",
+    "example": "The whole team focused on the glitch.",
+    "exampleTranslation": "Toda a equipe se concentrou no(a) falha / bug."
+  },
+  {
+    "word": "Shortcut",
+    "translation": "atalho",
+    "example": "There was a lot of shortcut during the meeting.",
+    "exampleTranslation": "Houve muito(a) atalho durante a reunião."
+  },
+  {
+    "word": "Refund",
+    "translation": "reembolso",
+    "example": "Understanding the refund took some time.",
+    "exampleTranslation": "Entender o(a) reembolso levou um tempo."
+  },
+  {
+    "word": "Discount",
+    "translation": "desconto",
+    "example": "The discount was more important than we expected.",
+    "exampleTranslation": "O(a) desconto foi mais importante do que esperávamos."
+  },
+  {
+    "word": "Receipt",
+    "translation": "recibo",
+    "example": "We talked about the receipt for a long time.",
+    "exampleTranslation": "Nós conversamos sobre o(a) recibo por muito tempo."
+  },
+  {
+    "word": "Warranty",
+    "translation": "garantia",
+    "example": "This book explains the warranty very well.",
+    "exampleTranslation": "Esse livro explica o(a) garantia muito bem."
+  },
+  {
+    "word": "Accurate",
+    "translation": "preciso(a)",
+    "example": "She felt very accurate after the news.",
+    "exampleTranslation": "Ela se sentiu muito preciso(a) depois da notícia."
+  },
+  {
+    "word": "Active",
+    "translation": "ativo(a)",
+    "example": "He seemed active during the interview.",
+    "exampleTranslation": "Ele parecia ativo(a) durante a entrevista."
+  },
+  {
+    "word": "Affordable",
+    "translation": "com preço acessível",
+    "example": "It was a affordable decision to make.",
+    "exampleTranslation": "Foi uma decisão com preço acessível de se tomar."
+  },
+  {
+    "word": "Aggressive",
+    "translation": "agressivo(a)",
+    "example": "Everyone thought the plan was aggressive.",
+    "exampleTranslation": "Todo mundo achou o plano agressivo(a)."
+  },
+  {
+    "word": "Ambitious",
+    "translation": "ambicioso(a)",
+    "example": "Being ambitious isn't always easy.",
+    "exampleTranslation": "Ser ambicioso(a) nem sempre é fácil."
+  },
+  {
+    "word": "Anxious",
+    "translation": "ansioso(a)",
+    "example": "The team stayed anxious throughout the project.",
+    "exampleTranslation": "A equipe permaneceu ansioso(a) durante todo o projeto."
+  },
+  {
+    "word": "Appropriate",
+    "translation": "apropriado(a)",
+    "example": "I've never met someone so appropriate.",
+    "exampleTranslation": "Eu nunca conheci alguém tão apropriado(a)."
+  },
+  {
+    "word": "Awkward",
+    "translation": "estranho(a) / desajeitado(a)",
+    "example": "Try to stay awkward, no matter what happens.",
+    "exampleTranslation": "Tente permanecer estranho(a) / desajeitado(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Beneficial",
+    "translation": "benéfico(a)",
+    "example": "She felt very beneficial after the news.",
+    "exampleTranslation": "Ela se sentiu muito benéfico(a) depois da notícia."
+  },
+  {
+    "word": "Bitter",
+    "translation": "amargo(a)",
+    "example": "He seemed bitter during the interview.",
+    "exampleTranslation": "Ele parecia amargo(a) durante a entrevista."
+  },
+  {
+    "word": "Bold",
+    "translation": "ousado(a)",
+    "example": "It was a bold decision to make.",
+    "exampleTranslation": "Foi uma decisão ousado(a) de se tomar."
+  },
+  {
+    "word": "Brave",
+    "translation": "corajoso(a)",
+    "example": "Everyone thought the plan was brave.",
+    "exampleTranslation": "Todo mundo achou o plano corajoso(a)."
+  },
+  {
+    "word": "Brilliant",
+    "translation": "brilhante",
+    "example": "Being brilliant isn't always easy.",
+    "exampleTranslation": "Ser brilhante nem sempre é fácil."
+  },
+  {
+    "word": "Broad",
+    "translation": "amplo(a)",
+    "example": "The team stayed broad throughout the project.",
+    "exampleTranslation": "A equipe permaneceu amplo(a) durante todo o projeto."
+  },
+  {
+    "word": "Calm",
+    "translation": "calmo(a)",
+    "example": "I've never met someone so calm.",
+    "exampleTranslation": "Eu nunca conheci alguém tão calmo(a)."
+  },
+  {
+    "word": "Capable",
+    "translation": "capaz",
+    "example": "Try to stay capable, no matter what happens.",
+    "exampleTranslation": "Tente permanecer capaz, aconteça o que acontecer."
+  },
+  {
+    "word": "Careless",
+    "translation": "descuidado(a)",
+    "example": "She felt very careless after the news.",
+    "exampleTranslation": "Ela se sentiu muito descuidado(a) depois da notícia."
+  },
+  {
+    "word": "Cautious",
+    "translation": "cauteloso(a)",
+    "example": "He seemed cautious during the interview.",
+    "exampleTranslation": "Ele parecia cauteloso(a) durante a entrevista."
+  },
+  {
+    "word": "Cheerful",
+    "translation": "alegre",
+    "example": "It was a cheerful decision to make.",
+    "exampleTranslation": "Foi uma decisão alegre de se tomar."
+  },
+  {
+    "word": "Clever",
+    "translation": "esperto(a)",
+    "example": "Everyone thought the plan was clever.",
+    "exampleTranslation": "Todo mundo achou o plano esperto(a)."
+  },
+  {
+    "word": "Clumsy",
+    "translation": "desajeitado(a)",
+    "example": "Being clumsy isn't always easy.",
+    "exampleTranslation": "Ser desajeitado(a) nem sempre é fácil."
+  },
+  {
+    "word": "Competitive",
+    "translation": "competitivo(a)",
+    "example": "The team stayed competitive throughout the project.",
+    "exampleTranslation": "A equipe permaneceu competitivo(a) durante todo o projeto."
+  },
+  {
+    "word": "Complex",
+    "translation": "complexo(a)",
+    "example": "I've never met someone so complex.",
+    "exampleTranslation": "Eu nunca conheci alguém tão complexo(a)."
+  },
+  {
+    "word": "Confident",
+    "translation": "confiante",
+    "example": "Try to stay confident, no matter what happens.",
+    "exampleTranslation": "Tente permanecer confiante, aconteça o que acontecer."
+  },
+  {
+    "word": "Confused",
+    "translation": "confuso(a)",
+    "example": "She felt very confused after the news.",
+    "exampleTranslation": "Ela se sentiu muito confuso(a) depois da notícia."
+  },
+  {
+    "word": "Conscious",
+    "translation": "consciente",
+    "example": "He seemed conscious during the interview.",
+    "exampleTranslation": "Ele parecia consciente durante a entrevista."
+  },
+  {
+    "word": "Considerate",
+    "translation": "atencioso(a)",
+    "example": "It was a considerate decision to make.",
+    "exampleTranslation": "Foi uma decisão atencioso(a) de se tomar."
+  },
+  {
+    "word": "Consistent",
+    "translation": "consistente",
+    "example": "Everyone thought the plan was consistent.",
+    "exampleTranslation": "Todo mundo achou o plano consistente."
+  },
+  {
+    "word": "Convenient",
+    "translation": "conveniente",
+    "example": "Being convenient isn't always easy.",
+    "exampleTranslation": "Ser conveniente nem sempre é fácil."
+  },
+  {
+    "word": "Cooperative",
+    "translation": "cooperativo(a)",
+    "example": "The team stayed cooperative throughout the project.",
+    "exampleTranslation": "A equipe permaneceu cooperativo(a) durante todo o projeto."
+  },
+  {
+    "word": "Courageous",
+    "translation": "corajoso(a)",
+    "example": "I've never met someone so courageous.",
+    "exampleTranslation": "Eu nunca conheci alguém tão corajoso(a)."
+  },
+  {
+    "word": "Creative",
+    "translation": "criativo(a)",
+    "example": "Try to stay creative, no matter what happens.",
+    "exampleTranslation": "Tente permanecer criativo(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Crucial",
+    "translation": "crucial",
+    "example": "She felt very crucial after the news.",
+    "exampleTranslation": "Ela se sentiu muito crucial depois da notícia."
+  },
+  {
+    "word": "Curious",
+    "translation": "curioso(a)",
+    "example": "He seemed curious during the interview.",
+    "exampleTranslation": "Ele parecia curioso(a) durante a entrevista."
+  },
+  {
+    "word": "Cynical",
+    "translation": "cínico(a)",
+    "example": "It was a cynical decision to make.",
+    "exampleTranslation": "Foi uma decisão cínico(a) de se tomar."
+  },
+  {
+    "word": "Deliberate",
+    "translation": "proposital",
+    "example": "Everyone thought the plan was deliberate.",
+    "exampleTranslation": "Todo mundo achou o plano proposital."
+  },
+  {
+    "word": "Delighted",
+    "translation": "encantado(a)",
+    "example": "Being delighted isn't always easy.",
+    "exampleTranslation": "Ser encantado(a) nem sempre é fácil."
+  },
+  {
+    "word": "Dependable",
+    "translation": "confiável",
+    "example": "The team stayed dependable throughout the project.",
+    "exampleTranslation": "A equipe permaneceu confiável durante todo o projeto."
+  },
+  {
+    "word": "Desperate",
+    "translation": "desesperado(a)",
+    "example": "I've never met someone so desperate.",
+    "exampleTranslation": "Eu nunca conheci alguém tão desesperado(a)."
+  },
+  {
+    "word": "Determined",
+    "translation": "determinado(a)",
+    "example": "Try to stay determined, no matter what happens.",
+    "exampleTranslation": "Tente permanecer determinado(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Disappointed",
+    "translation": "decepcionado(a)",
+    "example": "She felt very disappointed after the news.",
+    "exampleTranslation": "Ela se sentiu muito decepcionado(a) depois da notícia."
+  },
+  {
+    "word": "Disciplined",
+    "translation": "disciplinado(a)",
+    "example": "He seemed disciplined during the interview.",
+    "exampleTranslation": "Ele parecia disciplinado(a) durante a entrevista."
+  },
+  {
+    "word": "Distinct",
+    "translation": "distinto(a)",
+    "example": "It was a distinct decision to make.",
+    "exampleTranslation": "Foi uma decisão distinto(a) de se tomar."
+  },
+  {
+    "word": "Diverse",
+    "translation": "diverso(a)",
+    "example": "Everyone thought the plan was diverse.",
+    "exampleTranslation": "Todo mundo achou o plano diverso(a)."
+  },
+  {
+    "word": "Dramatic",
+    "translation": "dramático(a)",
+    "example": "Being dramatic isn't always easy.",
+    "exampleTranslation": "Ser dramático(a) nem sempre é fácil."
+  },
+  {
+    "word": "Eager",
+    "translation": "ansioso(a) para fazer algo",
+    "example": "The team stayed eager throughout the project.",
+    "exampleTranslation": "A equipe permaneceu ansioso(a) para fazer algo durante todo o projeto."
+  },
+  {
+    "word": "Efficient",
+    "translation": "eficiente",
+    "example": "I've never met someone so efficient.",
+    "exampleTranslation": "Eu nunca conheci alguém tão eficiente."
+  },
+  {
+    "word": "Embarrassed",
+    "translation": "envergonhado(a)",
+    "example": "Try to stay embarrassed, no matter what happens.",
+    "exampleTranslation": "Tente permanecer envergonhado(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Emotional",
+    "translation": "emocional",
+    "example": "She felt very emotional after the news.",
+    "exampleTranslation": "Ela se sentiu muito emocional depois da notícia."
+  },
+  {
+    "word": "Enthusiastic",
+    "translation": "entusiasmado(a)",
+    "example": "He seemed enthusiastic during the interview.",
+    "exampleTranslation": "Ele parecia entusiasmado(a) durante a entrevista."
+  },
+  {
+    "word": "Essential",
+    "translation": "essencial",
+    "example": "It was a essential decision to make.",
+    "exampleTranslation": "Foi uma decisão essencial de se tomar."
+  },
+  {
+    "word": "Exhausted",
+    "translation": "exausto(a)",
+    "example": "Everyone thought the plan was exhausted.",
+    "exampleTranslation": "Todo mundo achou o plano exausto(a)."
+  },
+  {
+    "word": "Extreme",
+    "translation": "extremo(a)",
+    "example": "Being extreme isn't always easy.",
+    "exampleTranslation": "Ser extremo(a) nem sempre é fácil."
+  },
+  {
+    "word": "Fair",
+    "translation": "justo(a)",
+    "example": "The team stayed fair throughout the project.",
+    "exampleTranslation": "A equipe permaneceu justo(a) durante todo o projeto."
+  },
+  {
+    "word": "Familiar",
+    "translation": "familiar / conhecido(a)",
+    "example": "I've never met someone so familiar.",
+    "exampleTranslation": "Eu nunca conheci alguém tão familiar / conhecido(a)."
+  },
+  {
+    "word": "Fascinating",
+    "translation": "fascinante",
+    "example": "Try to stay fascinating, no matter what happens.",
+    "exampleTranslation": "Tente permanecer fascinante, aconteça o que acontecer."
+  },
+  {
+    "word": "Fierce",
+    "translation": "feroz",
+    "example": "She felt very fierce after the news.",
+    "exampleTranslation": "Ela se sentiu muito feroz depois da notícia."
+  },
+  {
+    "word": "Flexible",
+    "translation": "flexível",
+    "example": "He seemed flexible during the interview.",
+    "exampleTranslation": "Ele parecia flexível durante a entrevista."
+  },
+  {
+    "word": "Fluent",
+    "translation": "fluente",
+    "example": "It was a fluent decision to make.",
+    "exampleTranslation": "Foi uma decisão fluente de se tomar."
+  },
+  {
+    "word": "Fragile",
+    "translation": "frágil",
+    "example": "Everyone thought the plan was fragile.",
+    "exampleTranslation": "Todo mundo achou o plano frágil."
+  },
+  {
+    "word": "Frank",
+    "translation": "franco(a) / direto(a)",
+    "example": "Being frank isn't always easy.",
+    "exampleTranslation": "Ser franco(a) / direto(a) nem sempre é fácil."
+  },
+  {
+    "word": "Frequent",
+    "translation": "frequente",
+    "example": "The team stayed frequent throughout the project.",
+    "exampleTranslation": "A equipe permaneceu frequente durante todo o projeto."
+  },
+  {
+    "word": "Frustrated",
+    "translation": "frustrado(a)",
+    "example": "I've never met someone so frustrated.",
+    "exampleTranslation": "Eu nunca conheci alguém tão frustrado(a)."
+  },
+  {
+    "word": "Generous",
+    "translation": "generoso(a)",
+    "example": "Try to stay generous, no matter what happens.",
+    "exampleTranslation": "Tente permanecer generoso(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Genuine",
+    "translation": "genuíno(a)",
+    "example": "She felt very genuine after the news.",
+    "exampleTranslation": "Ela se sentiu muito genuíno(a) depois da notícia."
+  },
+  {
+    "word": "Gentle",
+    "translation": "gentil / suave",
+    "example": "He seemed gentle during the interview.",
+    "exampleTranslation": "Ele parecia gentil / suave durante a entrevista."
+  },
+  {
+    "word": "Graceful",
+    "translation": "gracioso(a)",
+    "example": "It was a graceful decision to make.",
+    "exampleTranslation": "Foi uma decisão gracioso(a) de se tomar."
+  },
+  {
+    "word": "Grateful",
+    "translation": "grato(a)",
+    "example": "Everyone thought the plan was grateful.",
+    "exampleTranslation": "Todo mundo achou o plano grato(a)."
+  },
+  {
+    "word": "Guilty",
+    "translation": "culpado(a)",
+    "example": "Being guilty isn't always easy.",
+    "exampleTranslation": "Ser culpado(a) nem sempre é fácil."
+  },
+  {
+    "word": "Harsh",
+    "translation": "duro(a) / severo(a)",
+    "example": "The team stayed harsh throughout the project.",
+    "exampleTranslation": "A equipe permaneceu duro(a) / severo(a) durante todo o projeto."
+  },
+  {
+    "word": "Honest",
+    "translation": "honesto(a)",
+    "example": "I've never met someone so honest.",
+    "exampleTranslation": "Eu nunca conheci alguém tão honesto(a)."
+  },
+  {
+    "word": "Humble",
+    "translation": "humilde",
+    "example": "Try to stay humble, no matter what happens.",
+    "exampleTranslation": "Tente permanecer humilde, aconteça o que acontecer."
+  },
+  {
+    "word": "Ideal",
+    "translation": "ideal",
+    "example": "She felt very ideal after the news.",
+    "exampleTranslation": "Ela se sentiu muito ideal depois da notícia."
+  },
+  {
+    "word": "Immediate",
+    "translation": "imediato(a)",
+    "example": "He seemed immediate during the interview.",
+    "exampleTranslation": "Ele parecia imediato(a) durante a entrevista."
+  },
+  {
+    "word": "Independent",
+    "translation": "independente",
+    "example": "It was a independent decision to make.",
+    "exampleTranslation": "Foi uma decisão independente de se tomar."
+  },
+  {
+    "word": "Inevitable",
+    "translation": "inevitável",
+    "example": "Everyone thought the plan was inevitable.",
+    "exampleTranslation": "Todo mundo achou o plano inevitável."
+  },
+  {
+    "word": "Innocent",
+    "translation": "inocente",
+    "example": "Being innocent isn't always easy.",
+    "exampleTranslation": "Ser inocente nem sempre é fácil."
+  },
+  {
+    "word": "Intense",
+    "translation": "intenso(a)",
+    "example": "The team stayed intense throughout the project.",
+    "exampleTranslation": "A equipe permaneceu intenso(a) durante todo o projeto."
+  },
+  {
+    "word": "Jealous",
+    "translation": "ciumento(a)",
+    "example": "I've never met someone so jealous.",
+    "exampleTranslation": "Eu nunca conheci alguém tão ciumento(a)."
+  },
+  {
+    "word": "Keen",
+    "translation": "interessado(a) / animado(a)",
+    "example": "Try to stay keen, no matter what happens.",
+    "exampleTranslation": "Tente permanecer interessado(a) / animado(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Legitimate",
+    "translation": "legítimo(a)",
+    "example": "She felt very legitimate after the news.",
+    "exampleTranslation": "Ela se sentiu muito legítimo(a) depois da notícia."
+  },
+  {
+    "word": "Logical",
+    "translation": "lógico(a)",
+    "example": "He seemed logical during the interview.",
+    "exampleTranslation": "Ele parecia lógico(a) durante a entrevista."
+  },
+  {
+    "word": "Loyal",
+    "translation": "leal",
+    "example": "It was a loyal decision to make.",
+    "exampleTranslation": "Foi uma decisão leal de se tomar."
+  },
+  {
+    "word": "Mature",
+    "translation": "maduro(a)",
+    "example": "Everyone thought the plan was mature.",
+    "exampleTranslation": "Todo mundo achou o plano maduro(a)."
+  },
+  {
+    "word": "Messy",
+    "translation": "bagunçado(a)",
+    "example": "Being messy isn't always easy.",
+    "exampleTranslation": "Ser bagunçado(a) nem sempre é fácil."
+  },
+  {
+    "word": "Mild",
+    "translation": "ameno(a) / leve",
+    "example": "The team stayed mild throughout the project.",
+    "exampleTranslation": "A equipe permaneceu ameno(a) / leve durante todo o projeto."
+  },
+  {
+    "word": "Modest",
+    "translation": "modesto(a)",
+    "example": "I've never met someone so modest.",
+    "exampleTranslation": "Eu nunca conheci alguém tão modesto(a)."
+  },
+  {
+    "word": "Moody",
+    "translation": "de humor instável",
+    "example": "Try to stay moody, no matter what happens.",
+    "exampleTranslation": "Tente permanecer de humor instável, aconteça o que acontecer."
+  },
+  {
+    "word": "Narrow",
+    "translation": "estreito(a)",
+    "example": "She felt very narrow after the news.",
+    "exampleTranslation": "Ela se sentiu muito estreito(a) depois da notícia."
+  },
+  {
+    "word": "Nervous",
+    "translation": "nervoso(a)",
+    "example": "He seemed nervous during the interview.",
+    "exampleTranslation": "Ele parecia nervoso(a) durante a entrevista."
+  },
+  {
+    "word": "Obvious",
+    "translation": "óbvio(a)",
+    "example": "It was a obvious decision to make.",
+    "exampleTranslation": "Foi uma decisão óbvio(a) de se tomar."
+  },
+  {
+    "word": "Odd",
+    "translation": "estranho(a)",
+    "example": "Everyone thought the plan was odd.",
+    "exampleTranslation": "Todo mundo achou o plano estranho(a)."
+  },
+  {
+    "word": "Optimistic",
+    "translation": "otimista",
+    "example": "Being optimistic isn't always easy.",
+    "exampleTranslation": "Ser otimista nem sempre é fácil."
+  },
+  {
+    "word": "Ordinary",
+    "translation": "comum",
+    "example": "The team stayed ordinary throughout the project.",
+    "exampleTranslation": "A equipe permaneceu comum durante todo o projeto."
+  },
+  {
+    "word": "Outgoing",
+    "translation": "extrovertido(a)",
+    "example": "I've never met someone so outgoing.",
+    "exampleTranslation": "Eu nunca conheci alguém tão extrovertido(a)."
+  },
+  {
+    "word": "Overwhelming",
+    "translation": "avassalador(a)",
+    "example": "Try to stay overwhelming, no matter what happens.",
+    "exampleTranslation": "Tente permanecer avassalador(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Patient",
+    "translation": "paciente",
+    "example": "She felt very patient after the news.",
+    "exampleTranslation": "Ela se sentiu muito paciente depois da notícia."
+  },
+  {
+    "word": "Peculiar",
+    "translation": "peculiar",
+    "example": "He seemed peculiar during the interview.",
+    "exampleTranslation": "Ele parecia peculiar durante a entrevista."
+  },
+  {
+    "word": "Persistent",
+    "translation": "persistente",
+    "example": "It was a persistent decision to make.",
+    "exampleTranslation": "Foi uma decisão persistente de se tomar."
+  },
+  {
+    "word": "Pessimistic",
+    "translation": "pessimista",
+    "example": "Everyone thought the plan was pessimistic.",
+    "exampleTranslation": "Todo mundo achou o plano pessimista."
+  },
+  {
+    "word": "Picky",
+    "translation": "exigente",
+    "example": "Being picky isn't always easy.",
+    "exampleTranslation": "Ser exigente nem sempre é fácil."
+  },
+  {
+    "word": "Polite",
+    "translation": "educado(a)",
+    "example": "The team stayed polite throughout the project.",
+    "exampleTranslation": "A equipe permaneceu educado(a) durante todo o projeto."
+  },
+  {
+    "word": "Practical",
+    "translation": "prático(a)",
+    "example": "I've never met someone so practical.",
+    "exampleTranslation": "Eu nunca conheci alguém tão prático(a)."
+  },
+  {
+    "word": "Precise",
+    "translation": "preciso(a)",
+    "example": "Try to stay precise, no matter what happens.",
+    "exampleTranslation": "Tente permanecer preciso(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Proud",
+    "translation": "orgulhoso(a)",
+    "example": "She felt very proud after the news.",
+    "exampleTranslation": "Ela se sentiu muito orgulhoso(a) depois da notícia."
+  },
+  {
+    "word": "Punctual",
+    "translation": "pontual",
+    "example": "He seemed punctual during the interview.",
+    "exampleTranslation": "Ele parecia pontual durante a entrevista."
+  },
+  {
+    "word": "Rare",
+    "translation": "raro(a)",
+    "example": "It was a rare decision to make.",
+    "exampleTranslation": "Foi uma decisão raro(a) de se tomar."
+  },
+  {
+    "word": "Rational",
+    "translation": "racional",
+    "example": "Everyone thought the plan was rational.",
+    "exampleTranslation": "Todo mundo achou o plano racional."
+  },
+  {
+    "word": "Realistic",
+    "translation": "realista",
+    "example": "Being realistic isn't always easy.",
+    "exampleTranslation": "Ser realista nem sempre é fácil."
+  },
+  {
+    "word": "Reasonable",
+    "translation": "razoável",
+    "example": "The team stayed reasonable throughout the project.",
+    "exampleTranslation": "A equipe permaneceu razoável durante todo o projeto."
+  },
+  {
+    "word": "Reckless",
+    "translation": "imprudente",
+    "example": "I've never met someone so reckless.",
+    "exampleTranslation": "Eu nunca conheci alguém tão imprudente."
+  },
+  {
+    "word": "Reliable",
+    "translation": "confiável",
+    "example": "Try to stay reliable, no matter what happens.",
+    "exampleTranslation": "Tente permanecer confiável, aconteça o que acontecer."
+  },
+  {
+    "word": "Reluctant",
+    "translation": "relutante",
+    "example": "She felt very reluctant after the news.",
+    "exampleTranslation": "Ela se sentiu muito relutante depois da notícia."
+  },
+  {
+    "word": "Remarkable",
+    "translation": "notável",
+    "example": "He seemed remarkable during the interview.",
+    "exampleTranslation": "Ele parecia notável durante a entrevista."
+  },
+  {
+    "word": "Rigid",
+    "translation": "rígido(a)",
+    "example": "It was a rigid decision to make.",
+    "exampleTranslation": "Foi uma decisão rígido(a) de se tomar."
+  },
+  {
+    "word": "Rough",
+    "translation": "áspero(a) / bruto(a)",
+    "example": "Everyone thought the plan was rough.",
+    "exampleTranslation": "Todo mundo achou o plano áspero(a) / bruto(a)."
+  },
+  {
+    "word": "Rude",
+    "translation": "grosseiro(a)",
+    "example": "Being rude isn't always easy.",
+    "exampleTranslation": "Ser grosseiro(a) nem sempre é fácil."
+  },
+  {
+    "word": "Selfish",
+    "translation": "egoísta",
+    "example": "The team stayed selfish throughout the project.",
+    "exampleTranslation": "A equipe permaneceu egoísta durante todo o projeto."
+  },
+  {
+    "word": "Sensible",
+    "translation": "sensato(a)",
+    "example": "I've never met someone so sensible.",
+    "exampleTranslation": "Eu nunca conheci alguém tão sensato(a)."
+  },
+  {
+    "word": "Sensitive",
+    "translation": "sensível",
+    "example": "Try to stay sensitive, no matter what happens.",
+    "exampleTranslation": "Tente permanecer sensível, aconteça o que acontecer."
+  },
+  {
+    "word": "Severe",
+    "translation": "severo(a)",
+    "example": "She felt very severe after the news.",
+    "exampleTranslation": "Ela se sentiu muito severo(a) depois da notícia."
+  },
+  {
+    "word": "Shallow",
+    "translation": "raso(a)",
+    "example": "He seemed shallow during the interview.",
+    "exampleTranslation": "Ele parecia raso(a) durante a entrevista."
+  },
+  {
+    "word": "Shy",
+    "translation": "tímido(a)",
+    "example": "It was a shy decision to make.",
+    "exampleTranslation": "Foi uma decisão tímido(a) de se tomar."
+  },
+  {
+    "word": "Significant",
+    "translation": "significativo(a)",
+    "example": "Everyone thought the plan was significant.",
+    "exampleTranslation": "Todo mundo achou o plano significativo(a)."
+  },
+  {
+    "word": "Sincere",
+    "translation": "sincero(a)",
+    "example": "Being sincere isn't always easy.",
+    "exampleTranslation": "Ser sincero(a) nem sempre é fácil."
+  },
+  {
+    "word": "Skeptical",
+    "translation": "cético(a)",
+    "example": "The team stayed skeptical throughout the project.",
+    "exampleTranslation": "A equipe permaneceu cético(a) durante todo o projeto."
+  },
+  {
+    "word": "Skilled",
+    "translation": "habilidoso(a)",
+    "example": "I've never met someone so skilled.",
+    "exampleTranslation": "Eu nunca conheci alguém tão habilidoso(a)."
+  },
+  {
+    "word": "Sociable",
+    "translation": "sociável",
+    "example": "Try to stay sociable, no matter what happens.",
+    "exampleTranslation": "Tente permanecer sociável, aconteça o que acontecer."
+  },
+  {
+    "word": "Sophisticated",
+    "translation": "sofisticado(a)",
+    "example": "She felt very sophisticated after the news.",
+    "exampleTranslation": "Ela se sentiu muito sofisticado(a) depois da notícia."
+  },
+  {
+    "word": "Spontaneous",
+    "translation": "espontâneo(a)",
+    "example": "He seemed spontaneous during the interview.",
+    "exampleTranslation": "Ele parecia espontâneo(a) durante a entrevista."
+  },
+  {
+    "word": "Stubborn",
+    "translation": "teimoso(a)",
+    "example": "It was a stubborn decision to make.",
+    "exampleTranslation": "Foi uma decisão teimoso(a) de se tomar."
+  },
+  {
+    "word": "Stunning",
+    "translation": "deslumbrante",
+    "example": "Everyone thought the plan was stunning.",
+    "exampleTranslation": "Todo mundo achou o plano deslumbrante."
+  },
+  {
+    "word": "Subtle",
+    "translation": "sutil",
+    "example": "Being subtle isn't always easy.",
+    "exampleTranslation": "Ser sutil nem sempre é fácil."
+  },
+  {
+    "word": "Sufficient",
+    "translation": "suficiente",
+    "example": "The team stayed sufficient throughout the project.",
+    "exampleTranslation": "A equipe permaneceu suficiente durante todo o projeto."
+  },
+  {
+    "word": "Suitable",
+    "translation": "adequado(a)",
+    "example": "I've never met someone so suitable.",
+    "exampleTranslation": "Eu nunca conheci alguém tão adequado(a)."
+  },
+  {
+    "word": "Suspicious",
+    "translation": "suspeito(a)",
+    "example": "Try to stay suspicious, no matter what happens.",
+    "exampleTranslation": "Tente permanecer suspeito(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Sympathetic",
+    "translation": "compreensivo(a)",
+    "example": "She felt very sympathetic after the news.",
+    "exampleTranslation": "Ela se sentiu muito compreensivo(a) depois da notícia."
+  },
+  {
+    "word": "Talented",
+    "translation": "talentoso(a)",
+    "example": "He seemed talented during the interview.",
+    "exampleTranslation": "Ele parecia talentoso(a) durante a entrevista."
+  },
+  {
+    "word": "Tense",
+    "translation": "tenso(a)",
+    "example": "It was a tense decision to make.",
+    "exampleTranslation": "Foi uma decisão tenso(a) de se tomar."
+  },
+  {
+    "word": "Thorough",
+    "translation": "minucioso(a)",
+    "example": "Everyone thought the plan was thorough.",
+    "exampleTranslation": "Todo mundo achou o plano minucioso(a)."
+  },
+  {
+    "word": "Thoughtful",
+    "translation": "atencioso(a)",
+    "example": "Being thoughtful isn't always easy.",
+    "exampleTranslation": "Ser atencioso(a) nem sempre é fácil."
+  },
+  {
+    "word": "Tidy",
+    "translation": "arrumado(a)",
+    "example": "The team stayed tidy throughout the project.",
+    "exampleTranslation": "A equipe permaneceu arrumado(a) durante todo o projeto."
+  },
+  {
+    "word": "Tough",
+    "translation": "duro(a) / difícil",
+    "example": "I've never met someone so tough.",
+    "exampleTranslation": "Eu nunca conheci alguém tão duro(a) / difícil."
+  },
+  {
+    "word": "Typical",
+    "translation": "típico(a)",
+    "example": "Try to stay typical, no matter what happens.",
+    "exampleTranslation": "Tente permanecer típico(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Unbearable",
+    "translation": "insuportável",
+    "example": "She felt very unbearable after the news.",
+    "exampleTranslation": "Ela se sentiu muito insuportável depois da notícia."
+  },
+  {
+    "word": "Unique",
+    "translation": "único(a)",
+    "example": "He seemed unique during the interview.",
+    "exampleTranslation": "Ele parecia único(a) durante a entrevista."
+  },
+  {
+    "word": "Unpredictable",
+    "translation": "imprevisível",
+    "example": "It was a unpredictable decision to make.",
+    "exampleTranslation": "Foi uma decisão imprevisível de se tomar."
+  },
+  {
+    "word": "Upset",
+    "translation": "chateado(a)",
+    "example": "Everyone thought the plan was upset.",
+    "exampleTranslation": "Todo mundo achou o plano chateado(a)."
+  },
+  {
+    "word": "Valuable",
+    "translation": "valioso(a)",
+    "example": "Being valuable isn't always easy.",
+    "exampleTranslation": "Ser valioso(a) nem sempre é fácil."
+  },
+  {
+    "word": "Vague",
+    "translation": "vago(a)",
+    "example": "The team stayed vague throughout the project.",
+    "exampleTranslation": "A equipe permaneceu vago(a) durante todo o projeto."
+  },
+  {
+    "word": "Versatile",
+    "translation": "versátil",
+    "example": "I've never met someone so versatile.",
+    "exampleTranslation": "Eu nunca conheci alguém tão versátil."
+  },
+  {
+    "word": "Vivid",
+    "translation": "vívido(a)",
+    "example": "Try to stay vivid, no matter what happens.",
+    "exampleTranslation": "Tente permanecer vívido(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Vulnerable",
+    "translation": "vulnerável",
+    "example": "She felt very vulnerable after the news.",
+    "exampleTranslation": "Ela se sentiu muito vulnerável depois da notícia."
+  },
+  {
+    "word": "Wealthy",
+    "translation": "rico(a)",
+    "example": "He seemed wealthy during the interview.",
+    "exampleTranslation": "Ele parecia rico(a) durante a entrevista."
+  },
+  {
+    "word": "Weird",
+    "translation": "esquisito(a)",
+    "example": "It was a weird decision to make.",
+    "exampleTranslation": "Foi uma decisão esquisito(a) de se tomar."
+  },
+  {
+    "word": "Wise",
+    "translation": "sábio(a)",
+    "example": "Everyone thought the plan was wise.",
+    "exampleTranslation": "Todo mundo achou o plano sábio(a)."
+  },
+  {
+    "word": "Worthwhile",
+    "translation": "que vale a pena",
+    "example": "Being worthwhile isn't always easy.",
+    "exampleTranslation": "Ser que vale a pena nem sempre é fácil."
+  },
+  {
+    "word": "Arrogant",
+    "translation": "arrogante",
+    "example": "The team stayed arrogant throughout the project.",
+    "exampleTranslation": "A equipe permaneceu arrogante durante todo o projeto."
+  },
+  {
+    "word": "Bright",
+    "translation": "brilhante / inteligente",
+    "example": "I've never met someone so bright.",
+    "exampleTranslation": "Eu nunca conheci alguém tão brilhante / inteligente."
+  },
+  {
+    "word": "Bulky",
+    "translation": "volumoso(a)",
+    "example": "Try to stay bulky, no matter what happens.",
+    "exampleTranslation": "Tente permanecer volumoso(a), aconteça o que acontecer."
+  },
+  {
+    "word": "Immune",
+    "translation": "imune",
+    "example": "She felt very immune after the news.",
+    "exampleTranslation": "Ela se sentiu muito imune depois da notícia."
+  },
+  {
+    "word": "Sustainable",
+    "translation": "sustentável",
+    "example": "He seemed sustainable during the interview.",
+    "exampleTranslation": "Ele parecia sustentável durante a entrevista."
+  },
+  {
+    "word": "Renewable",
+    "translation": "renovável",
+    "example": "It was a renewable decision to make.",
+    "exampleTranslation": "Foi uma decisão renovável de se tomar."
+  },
+  {
+    "word": "Humid",
+    "translation": "úmido(a)",
+    "example": "Everyone thought the plan was humid.",
+    "exampleTranslation": "Todo mundo achou o plano úmido(a)."
+  },
+  {
+    "word": "Accidentally",
+    "translation": "acidentalmente",
+    "example": "She accidentally finished the project on time.",
+    "exampleTranslation": "Ela acidentalmente terminou o projeto a tempo."
+  },
+  {
+    "word": "Actually",
+    "translation": "na verdade",
+    "example": "He actually agreed to help us.",
+    "exampleTranslation": "Ele na verdade concordou em nos ajudar."
+  },
+  {
+    "word": "Barely",
+    "translation": "mal / quase não",
+    "example": "They barely noticed the difference.",
+    "exampleTranslation": "Eles mal / quase não notaram a diferença."
+  },
+  {
+    "word": "Carefully",
+    "translation": "cuidadosamente",
+    "example": "I carefully forgot about the meeting.",
+    "exampleTranslation": "Eu cuidadosamente esqueci da reunião."
+  },
+  {
+    "word": "Clearly",
+    "translation": "claramente",
+    "example": "The situation changed clearly last month.",
+    "exampleTranslation": "A situação mudou claramente no mês passado."
+  },
+  {
+    "word": "Constantly",
+    "translation": "constantemente",
+    "example": "We constantly need to talk about this.",
+    "exampleTranslation": "Nós constantemente precisamos falar sobre isso."
+  },
+  {
+    "word": "Deliberately",
+    "translation": "deliberadamente",
+    "example": "She deliberately finished the project on time.",
+    "exampleTranslation": "Ela deliberadamente terminou o projeto a tempo."
+  },
+  {
+    "word": "Definitely",
+    "translation": "definitivamente",
+    "example": "He definitely agreed to help us.",
+    "exampleTranslation": "Ele definitivamente concordou em nos ajudar."
+  },
+  {
+    "word": "Desperately",
+    "translation": "desesperadamente",
+    "example": "They desperately noticed the difference.",
+    "exampleTranslation": "Eles desesperadamente notaram a diferença."
+  },
+  {
+    "word": "Easily",
+    "translation": "facilmente",
+    "example": "I easily forgot about the meeting.",
+    "exampleTranslation": "Eu facilmente esqueci da reunião."
+  },
+  {
+    "word": "Eventually",
+    "translation": "eventualmente / finalmente",
+    "example": "The situation changed eventually last month.",
+    "exampleTranslation": "A situação mudou eventualmente / finalmente no mês passado."
+  },
+  {
+    "word": "Extremely",
+    "translation": "extremamente",
+    "example": "We extremely need to talk about this.",
+    "exampleTranslation": "Nós extremamente precisamos falar sobre isso."
+  },
+  {
+    "word": "Fairly",
+    "translation": "razoavelmente",
+    "example": "She fairly finished the project on time.",
+    "exampleTranslation": "Ela razoavelmente terminou o projeto a tempo."
+  },
+  {
+    "word": "Fortunately",
+    "translation": "felizmente",
+    "example": "He fortunately agreed to help us.",
+    "exampleTranslation": "Ele felizmente concordou em nos ajudar."
+  },
+  {
+    "word": "Frequently",
+    "translation": "frequentemente",
+    "example": "They frequently noticed the difference.",
+    "exampleTranslation": "Eles frequentemente notaram a diferença."
+  },
+  {
+    "word": "Gradually",
+    "translation": "gradualmente",
+    "example": "I gradually forgot about the meeting.",
+    "exampleTranslation": "Eu gradualmente esqueci da reunião."
+  },
+  {
+    "word": "Hardly",
+    "translation": "dificilmente / quase não",
+    "example": "The situation changed hardly last month.",
+    "exampleTranslation": "A situação mudou dificilmente / quase não no mês passado."
+  },
+  {
+    "word": "Honestly",
+    "translation": "honestamente",
+    "example": "We honestly need to talk about this.",
+    "exampleTranslation": "Nós honestamente precisamos falar sobre isso."
+  },
+  {
+    "word": "Immediately",
+    "translation": "imediatamente",
+    "example": "She immediately finished the project on time.",
+    "exampleTranslation": "Ela imediatamente terminou o projeto a tempo."
+  },
+  {
+    "word": "Increasingly",
+    "translation": "cada vez mais",
+    "example": "He increasingly agreed to help us.",
+    "exampleTranslation": "Ele cada vez mais concordou em nos ajudar."
+  },
+  {
+    "word": "Mainly",
+    "translation": "principalmente",
+    "example": "They mainly noticed the difference.",
+    "exampleTranslation": "Eles principalmente notaram a diferença."
+  },
+  {
+    "word": "Merely",
+    "translation": "meramente / apenas",
+    "example": "I merely forgot about the meeting.",
+    "exampleTranslation": "Eu meramente / apenas esqueci da reunião."
+  },
+  {
+    "word": "Mostly",
+    "translation": "na maior parte",
+    "example": "The situation changed mostly last month.",
+    "exampleTranslation": "A situação mudou na maior parte no mês passado."
+  },
+  {
+    "word": "Nearly",
+    "translation": "quase",
+    "example": "We nearly need to talk about this.",
+    "exampleTranslation": "Nós quase precisamos falar sobre isso."
+  },
+  {
+    "word": "Obviously",
+    "translation": "obviamente",
+    "example": "She obviously finished the project on time.",
+    "exampleTranslation": "Ela obviamente terminou o projeto a tempo."
+  },
+  {
+    "word": "Occasionally",
+    "translation": "ocasionalmente",
+    "example": "He occasionally agreed to help us.",
+    "exampleTranslation": "Ele ocasionalmente concordou em nos ajudar."
+  },
+  {
+    "word": "Particularly",
+    "translation": "particularmente",
+    "example": "They particularly noticed the difference.",
+    "exampleTranslation": "Eles particularmente notaram a diferença."
+  },
+  {
+    "word": "Permanently",
+    "translation": "permanentemente",
+    "example": "I permanently forgot about the meeting.",
+    "exampleTranslation": "Eu permanentemente esqueci da reunião."
+  },
+  {
+    "word": "Previously",
+    "translation": "anteriormente",
+    "example": "The situation changed previously last month.",
+    "exampleTranslation": "A situação mudou anteriormente no mês passado."
+  },
+  {
+    "word": "Primarily",
+    "translation": "principalmente",
+    "example": "We primarily need to talk about this.",
+    "exampleTranslation": "Nós principalmente precisamos falar sobre isso."
+  },
+  {
+    "word": "Properly",
+    "translation": "adequadamente",
+    "example": "She properly finished the project on time.",
+    "exampleTranslation": "Ela adequadamente terminou o projeto a tempo."
+  },
+  {
+    "word": "Rarely",
+    "translation": "raramente",
+    "example": "He rarely agreed to help us.",
+    "exampleTranslation": "Ele raramente concordou em nos ajudar."
+  },
+  {
+    "word": "Readily",
+    "translation": "prontamente",
+    "example": "They readily noticed the difference.",
+    "exampleTranslation": "Eles prontamente notaram a diferença."
+  },
+  {
+    "word": "Recently",
+    "translation": "recentemente",
+    "example": "I recently forgot about the meeting.",
+    "exampleTranslation": "Eu recentemente esqueci da reunião."
+  },
+  {
+    "word": "Relatively",
+    "translation": "relativamente",
+    "example": "The situation changed relatively last month.",
+    "exampleTranslation": "A situação mudou relativamente no mês passado."
+  },
+  {
+    "word": "Reluctantly",
+    "translation": "relutantemente",
+    "example": "We reluctantly need to talk about this.",
+    "exampleTranslation": "Nós relutantemente precisamos falar sobre isso."
+  },
+  {
+    "word": "Seriously",
+    "translation": "seriamente",
+    "example": "She seriously finished the project on time.",
+    "exampleTranslation": "Ela seriamente terminou o projeto a tempo."
+  },
+  {
+    "word": "Shortly",
+    "translation": "em breve",
+    "example": "He shortly agreed to help us.",
+    "exampleTranslation": "Ele em breve concordou em nos ajudar."
+  },
+  {
+    "word": "Significantly",
+    "translation": "significativamente",
+    "example": "They significantly noticed the difference.",
+    "exampleTranslation": "Eles significativamente notaram a diferença."
+  },
+  {
+    "word": "Simultaneously",
+    "translation": "simultaneamente",
+    "example": "I simultaneously forgot about the meeting.",
+    "exampleTranslation": "Eu simultaneamente esqueci da reunião."
+  },
+  {
+    "word": "Slightly",
+    "translation": "ligeiramente",
+    "example": "The situation changed slightly last month.",
+    "exampleTranslation": "A situação mudou ligeiramente no mês passado."
+  },
+  {
+    "word": "Smoothly",
+    "translation": "suavemente",
+    "example": "We smoothly need to talk about this.",
+    "exampleTranslation": "Nós suavemente precisamos falar sobre isso."
+  },
+  {
+    "word": "Strictly",
+    "translation": "estritamente",
+    "example": "She strictly finished the project on time.",
+    "exampleTranslation": "Ela estritamente terminou o projeto a tempo."
+  },
+  {
+    "word": "Surprisingly",
+    "translation": "surpreendentemente",
+    "example": "He surprisingly agreed to help us.",
+    "exampleTranslation": "Ele surpreendentemente concordou em nos ajudar."
+  },
+  {
+    "word": "Temporarily",
+    "translation": "temporariamente",
+    "example": "They temporarily noticed the difference.",
+    "exampleTranslation": "Eles temporariamente notaram a diferença."
+  },
+  {
+    "word": "Thoroughly",
+    "translation": "minuciosamente",
+    "example": "I thoroughly forgot about the meeting.",
+    "exampleTranslation": "Eu minuciosamente esqueci da reunião."
+  },
+  {
+    "word": "Truly",
+    "translation": "verdadeiramente",
+    "example": "The situation changed truly last month.",
+    "exampleTranslation": "A situação mudou verdadeiramente no mês passado."
+  },
+  {
+    "word": "Ultimately",
+    "translation": "em última análise",
+    "example": "We ultimately need to talk about this.",
+    "exampleTranslation": "Nós em última análise precisamos falar sobre isso."
+  },
+  {
+    "word": "Unfortunately",
+    "translation": "infelizmente",
+    "example": "She unfortunately finished the project on time.",
+    "exampleTranslation": "Ela infelizmente terminou o projeto a tempo."
+  },
+  {
+    "word": "Virtually",
+    "translation": "praticamente",
+    "example": "He virtually agreed to help us.",
+    "exampleTranslation": "Ele praticamente concordou em nos ajudar."
+  },
+  {
+    "word": "Give up",
+    "translation": "desistir",
+    "example": "Don't give up just because it's hard.",
+    "exampleTranslation": "Não desistir só porque é difícil."
+  },
+  {
+    "word": "Look forward to",
+    "translation": "aguardar ansiosamente",
+    "example": "She had to look forward to at the last minute.",
+    "exampleTranslation": "Ela teve que aguardar ansiosamente no último minuto."
+  },
+  {
+    "word": "Find out",
+    "translation": "descobrir",
+    "example": "We finally managed to find out.",
+    "exampleTranslation": "Nós finalmente conseguimos descobrir."
+  },
+  {
+    "word": "Figure out",
+    "translation": "entender / descobrir",
+    "example": "It's not easy to figure out sometimes.",
+    "exampleTranslation": "Às vezes não é fácil entender / descobrir."
+  },
+  {
+    "word": "Come up with",
+    "translation": "bolar / propor",
+    "example": "He decided to come up with after thinking about it.",
+    "exampleTranslation": "Ele decidiu bolar / propor depois de pensar sobre isso."
+  },
+  {
+    "word": "Get along with",
+    "translation": "se dar bem com",
+    "example": "Don't get along with just because it's hard.",
+    "exampleTranslation": "Não se dar bem com só porque é difícil."
+  },
+  {
+    "word": "Put off",
+    "translation": "adiar",
+    "example": "She had to put off at the last minute.",
+    "exampleTranslation": "Ela teve que adiar no último minuto."
+  },
+  {
+    "word": "Carry out",
+    "translation": "executar",
+    "example": "We finally managed to carry out.",
+    "exampleTranslation": "Nós finalmente conseguimos executar."
+  },
+  {
+    "word": "Bring up",
+    "translation": "trazer à tona / criar um filho",
+    "example": "It's not easy to bring up sometimes.",
+    "exampleTranslation": "Às vezes não é fácil trazer à tona / criar um filho."
+  },
+  {
+    "word": "Turn down",
+    "translation": "recusar",
+    "example": "He decided to turn down after thinking about it.",
+    "exampleTranslation": "Ele decidiu recusar depois de pensar sobre isso."
+  },
+  {
+    "word": "Take over",
+    "translation": "assumir o controle",
+    "example": "Don't take over just because it's hard.",
+    "exampleTranslation": "Não assumir o controle só porque é difícil."
+  },
+  {
+    "word": "Break down",
+    "translation": "quebrar / desmoronar",
+    "example": "She had to break down at the last minute.",
+    "exampleTranslation": "Ela teve que quebrar / desmoronar no último minuto."
+  },
+  {
+    "word": "Deal with",
+    "translation": "lidar com",
+    "example": "We finally managed to deal with.",
+    "exampleTranslation": "Nós finalmente conseguimos lidar com."
+  },
+  {
+    "word": "Run into",
+    "translation": "encontrar por acaso",
+    "example": "It's not easy to run into sometimes.",
+    "exampleTranslation": "Às vezes não é fácil encontrar por acaso."
+  },
+  {
+    "word": "Set up",
+    "translation": "montar / configurar",
+    "example": "He decided to set up after thinking about it.",
+    "exampleTranslation": "Ele decidiu montar / configurar depois de pensar sobre isso."
+  },
+  {
+    "word": "Work out",
+    "translation": "resolver / se exercitar",
+    "example": "Don't work out just because it's hard.",
+    "exampleTranslation": "Não resolver / se exercitar só porque é difícil."
+  },
+  {
+    "word": "Point out",
+    "translation": "apontar",
+    "example": "She had to point out at the last minute.",
+    "exampleTranslation": "Ela teve que apontar no último minuto."
+  },
+  {
+    "word": "Rely on",
+    "translation": "contar com",
+    "example": "We finally managed to rely on.",
+    "exampleTranslation": "Nós finalmente conseguimos contar com."
+  },
+  {
+    "word": "Keep up with",
+    "translation": "se manter atualizado com",
+    "example": "It's not easy to keep up with sometimes.",
+    "exampleTranslation": "Às vezes não é fácil se manter atualizado com."
+  },
+  {
+    "word": "Hold on",
+    "translation": "esperar / segurar",
+    "example": "He decided to hold on after thinking about it.",
+    "exampleTranslation": "Ele decidiu esperar / segurar depois de pensar sobre isso."
+  },
+  {
+    "word": "Get over",
+    "translation": "superar",
+    "example": "Don't get over just because it's hard.",
+    "exampleTranslation": "Não superar só porque é difícil."
+  },
+  {
+    "word": "Show up",
+    "translation": "aparecer",
+    "example": "She had to show up at the last minute.",
+    "exampleTranslation": "Ela teve que aparecer no último minuto."
+  },
+  {
+    "word": "Call off",
+    "translation": "cancelar",
+    "example": "We finally managed to call off.",
+    "exampleTranslation": "Nós finalmente conseguimos cancelar."
+  },
+  {
+    "word": "Check in",
+    "translation": "fazer check-in",
+    "example": "It's not easy to check in sometimes.",
+    "exampleTranslation": "Às vezes não é fácil fazer check-in."
+  },
+  {
+    "word": "Check out",
+    "translation": "fazer check-out / verificar",
+    "example": "He decided to check out after thinking about it.",
+    "exampleTranslation": "Ele decidiu fazer check-out / verificar depois de pensar sobre isso."
+  },
+  {
+    "word": "Cut down on",
+    "translation": "reduzir",
+    "example": "Don't cut down on just because it's hard.",
+    "exampleTranslation": "Não reduzir só porque é difícil."
+  },
+  {
+    "word": "Drop out",
+    "translation": "abandonar os estudos",
+    "example": "She had to drop out at the last minute.",
+    "exampleTranslation": "Ela teve que abandonar os estudos no último minuto."
+  },
+  {
+    "word": "End up",
+    "translation": "acabar em uma situação",
+    "example": "We finally managed to end up.",
+    "exampleTranslation": "Nós finalmente conseguimos acabar em uma situação."
+  },
+  {
+    "word": "Fill in",
+    "translation": "preencher",
+    "example": "It's not easy to fill in sometimes.",
+    "exampleTranslation": "Às vezes não é fácil preencher."
+  },
+  {
+    "word": "Get away with",
+    "translation": "se safar de",
+    "example": "He decided to get away with after thinking about it.",
+    "exampleTranslation": "Ele decidiu se safar de depois de pensar sobre isso."
+  },
+  {
+    "word": "Give in",
+    "translation": "ceder",
+    "example": "Don't give in just because it's hard.",
+    "exampleTranslation": "Não ceder só porque é difícil."
+  },
+  {
+    "word": "Go through",
+    "translation": "passar por",
+    "example": "She had to go through at the last minute.",
+    "exampleTranslation": "Ela teve que passar por no último minuto."
+  },
+  {
+    "word": "Hand in",
+    "translation": "entregar um trabalho",
+    "example": "We finally managed to hand in.",
+    "exampleTranslation": "Nós finalmente conseguimos entregar um trabalho."
+  },
+  {
+    "word": "Hang out",
+    "translation": "sair com amigos",
+    "example": "It's not easy to hang out sometimes.",
+    "exampleTranslation": "Às vezes não é fácil sair com amigos."
+  },
+  {
+    "word": "Hold back",
+    "translation": "conter / segurar",
+    "example": "He decided to hold back after thinking about it.",
+    "exampleTranslation": "Ele decidiu conter / segurar depois de pensar sobre isso."
+  },
+  {
+    "word": "Keep on",
+    "translation": "continuar",
+    "example": "Don't keep on just because it's hard.",
+    "exampleTranslation": "Não continuar só porque é difícil."
+  },
+  {
+    "word": "Let down",
+    "translation": "decepcionar",
+    "example": "She had to let down at the last minute.",
+    "exampleTranslation": "Ela teve que decepcionar no último minuto."
+  },
+  {
+    "word": "Look after",
+    "translation": "cuidar de",
+    "example": "We finally managed to look after.",
+    "exampleTranslation": "Nós finalmente conseguimos cuidar de."
+  },
+  {
+    "word": "Look into",
+    "translation": "investigar",
+    "example": "It's not easy to look into sometimes.",
+    "exampleTranslation": "Às vezes não é fácil investigar."
+  },
+  {
+    "word": "Make up",
+    "translation": "inventar / se reconciliar",
+    "example": "He decided to make up after thinking about it.",
+    "exampleTranslation": "Ele decidiu inventar / se reconciliar depois de pensar sobre isso."
+  },
+  {
+    "word": "Pass away",
+    "translation": "falecer",
+    "example": "Don't pass away just because it's hard.",
+    "exampleTranslation": "Não falecer só porque é difícil."
+  },
+  {
+    "word": "Pick up",
+    "translation": "pegar / aprender informalmente",
+    "example": "She had to pick up at the last minute.",
+    "exampleTranslation": "Ela teve que pegar / aprender informalmente no último minuto."
+  },
+  {
+    "word": "Put up with",
+    "translation": "tolerar / aguentar",
+    "example": "We finally managed to put up with.",
+    "exampleTranslation": "Nós finalmente conseguimos tolerar / aguentar."
+  },
+  {
+    "word": "Run out of",
+    "translation": "ficar sem",
+    "example": "It's not easy to run out of sometimes.",
+    "exampleTranslation": "Às vezes não é fácil ficar sem."
+  },
+  {
+    "word": "Set off",
+    "translation": "partir / iniciar",
+    "example": "He decided to set off after thinking about it.",
+    "exampleTranslation": "Ele decidiu partir / iniciar depois de pensar sobre isso."
+  },
+  {
+    "word": "Sort out",
+    "translation": "resolver / organizar",
+    "example": "Don't sort out just because it's hard.",
+    "exampleTranslation": "Não resolver / organizar só porque é difícil."
+  },
+  {
+    "word": "Stand out",
+    "translation": "se destacar",
+    "example": "She had to stand out at the last minute.",
+    "exampleTranslation": "Ela teve que se destacar no último minuto."
+  },
+  {
+    "word": "Take after",
+    "translation": "puxar a alguém da família",
+    "example": "We finally managed to take after.",
+    "exampleTranslation": "Nós finalmente conseguimos puxar a alguém da família."
+  },
+  {
+    "word": "Take off",
+    "translation": "decolar / tirar a roupa",
+    "example": "It's not easy to take off sometimes.",
+    "exampleTranslation": "Às vezes não é fácil decolar / tirar a roupa."
+  },
+  {
+    "word": "Turn out",
+    "translation": "acabar sendo",
+    "example": "He decided to turn out after thinking about it.",
+    "exampleTranslation": "Ele decidiu acabar sendo depois de pensar sobre isso."
+  },
+  {
+    "word": "Turn up",
+    "translation": "aparecer",
+    "example": "Don't turn up just because it's hard.",
+    "exampleTranslation": "Não aparecer só porque é difícil."
+  },
+  {
+    "word": "Wear out",
+    "translation": "desgastar / cansar",
+    "example": "She had to wear out at the last minute.",
+    "exampleTranslation": "Ela teve que desgastar / cansar no último minuto."
+  },
+  {
+    "word": "Bring about",
+    "translation": "provocar",
+    "example": "We finally managed to bring about.",
+    "exampleTranslation": "Nós finalmente conseguimos provocar."
+  },
+  {
+    "word": "Call for",
+    "translation": "exigir",
+    "example": "It's not easy to call for sometimes.",
+    "exampleTranslation": "Às vezes não é fácil exigir."
+  },
+  {
+    "word": "Come across",
+    "translation": "encontrar por acaso",
+    "example": "He decided to come across after thinking about it.",
+    "exampleTranslation": "Ele decidiu encontrar por acaso depois de pensar sobre isso."
+  },
+  {
+    "word": "Cut off",
+    "translation": "cortar",
+    "example": "Don't cut off just because it's hard.",
+    "exampleTranslation": "Não cortar só porque é difícil."
+  },
+  {
+    "word": "Get through",
+    "translation": "superar / passar por",
+    "example": "She had to get through at the last minute.",
+    "exampleTranslation": "Ela teve que superar / passar por no último minuto."
+  },
+  {
+    "word": "Go over",
+    "translation": "revisar",
+    "example": "We finally managed to go over.",
+    "exampleTranslation": "Nós finalmente conseguimos revisar."
+  },
+  {
+    "word": "Live up to",
+    "translation": "corresponder a expectativas",
+    "example": "It's not easy to live up to sometimes.",
+    "exampleTranslation": "Às vezes não é fácil corresponder a expectativas."
+  },
+  {
+    "word": "Take on",
+    "translation": "assumir uma tarefa",
+    "example": "He decided to take on after thinking about it.",
+    "exampleTranslation": "Ele decidiu assumir uma tarefa depois de pensar sobre isso."
+  },
+  {
+    "word": "However",
+    "translation": "no entanto",
+    "example": "However, everything worked out fine in the end.",
+    "exampleTranslation": "No entanto, tudo deu certo no final."
+  }
+]
