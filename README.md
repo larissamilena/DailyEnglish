@@ -44,6 +44,18 @@ Para compilar, abra a pasta no Android Studio (ele baixa o Gradle Wrapper e o An
 
 > Este projeto foi montado num ambiente sem Android SDK instalado, então o build completo (compilação/APK) não foi validado aqui — apenas a estrutura de arquivos, XML e sintaxe Kotlin. Recomenda-se abrir no Android Studio e rodar um build local antes da primeira instalação em um aparelho.
 
+## Instalar sem computador (APK pronto)
+
+Este repositório tem um workflow do GitHub Actions (`.github/workflows/build-apk.yml`) que compila o app automaticamente a cada push na `main` (ou quando disparado manualmente na aba **Actions**) e publica o `.apk` em **Releases**.
+
+Para instalar direto no celular:
+1. No repositório do GitHub, acesse a aba **Releases** (ou `github.com/<usuario>/DailyEnglish/releases`).
+2. Abra a versão mais recente e baixe o arquivo `app-debug.apk` pelo navegador do celular.
+3. Se for a primeira instalação fora da Play Store, o Android vai pedir para permitir "instalar apps de fontes desconhecidas" — permita apenas para esse arquivo.
+4. Abra o app instalado, toque em **"Definir como papel de parede"** e escolha DailyEnglish no seletor do sistema.
+
+> É um APK de debug (não assinado para produção) — perfeito para uso pessoal, mas não deve ser publicado na Play Store nesse formato.
+
 ## Personalização
 
 - **Trocar as palavras**: edite `app/src/main/assets/words.json` (mantenha os 4 campos: `word`, `translation`, `example`, `exampleTranslation`).
